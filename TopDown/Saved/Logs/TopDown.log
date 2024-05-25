@@ -1226,3 +1226,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.05.25-12.41.41:062][251]LogPlayLevel: Display: Destroying online subsystem :Context_11
 [2024.05.25-12.41.42:569][333]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
 [2024.05.25-12.41.43:469][383]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2024.05.25-12.50.56:443][606]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2024.05.25-12.50.56:446][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="C:/Users/Paulina/OneDrive/Pulpit/TopDownPaulinaSa-ek/TopDown/Saved/Autosaves/Game/Maps/Main_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.05.25-12.50.56:452][606]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/TopDownPaulinaSa-ek/TopDown/Saved/Main_Auto257BA3CF84E01AFD7A6163C9156028760.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/TopDownPaulinaSa-ek/TopDown/Saved/Autosaves/Game/Maps/Main_Auto2.umap'
+[2024.05.25-12.50.56:453][606]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Main' took 0.029
+[2024.05.25-12.50.56:453][606]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.029
