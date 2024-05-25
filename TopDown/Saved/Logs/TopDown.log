@@ -2187,3 +2187,281 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.05.25-14.54.44:276][507]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/TopDownPaulinaSa-ek/TopDown/Saved/BP_ChAnimation8CB58E2A417B68530031A281B2A81EF6.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/Pawns/BP_ChAnimation.uasset'
 [2024.05.25-14.54.44:287][507]AssetCheck: New page: Asset Save: BP_ChAnimation
 [2024.05.25-14.54.44:287][507]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation
+[2024.05.25-14.56.50:860][357]LogSlate: Took 0.022129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.05.25-14.57.42:506][836]BlueprintLog: New page: Compile BP_ChAnimation
+[2024.05.25-14.57.42:541][836]LogBlueprint: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Blueprints\Pawns\BP_ChAnimation.uasset: [Compiler] Can't parse default value '0.000000,0.000000,0.000000' for  Velocity . Property: Velocity.
+[2024.05.25-14.57.42:557][836]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_9
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:0040
+[2024.05.25-14.57.42:558][836]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_9
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:00EA
+[2024.05.25-14.57.42:558][836]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_ChAnimation_C_9
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:0040
+[2024.05.25-14.57.42:558][836]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_ChAnimation_C_9
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:00EA
+[2024.05.25-14.57.42:587][836]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2024.05.25-14.57.42:600][836]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_9
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:0040
+[2024.05.25-14.57.42:600][836]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_9
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:00EA
+[2024.05.25-14.57.42:630][837]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_9
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:0040
+[2024.05.25-14.57.42:630][837]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_9
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:00EA
+[2024.05.25-14.57.42:829][838]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_9
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:0040
+[2024.05.25-14.57.42:830][838]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_9
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:00EA
+[2024.05.25-14.57.42:869][839]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_9
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:0040
+[2024.05.25-14.57.42:869][839]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_9
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:00EA
+[2024.05.25-14.57.42:885][840]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_9
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:0040
+[2024.05.25-14.57.42:885][840]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_9
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:00EA
+[2024.05.25-14.57.42:904][841]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_9
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:0040
+[2024.05.25-14.57.42:904][841]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_9
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:00EA
+[2024.05.25-14.57.43:690][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_ChAnimation" FILE="C:/Users/Paulina/OneDrive/Pulpit/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/Pawns/BP_ChAnimation.uasset" SILENT=true
+[2024.05.25-14.57.43:700][866]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/TopDownPaulinaSa-ek/TopDown/Saved/BP_ChAnimation3720E27746D4AFCFA4CB9A92ED8BB004.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/Pawns/BP_ChAnimation.uasset'
+[2024.05.25-14.57.43:713][866]AssetCheck: New page: Asset Save: BP_ChAnimation
+[2024.05.25-14.57.43:713][866]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation
+[2024.05.25-14.57.59:707][128]BlueprintLog: New page: Compile BP_ChAnimation
+[2024.05.25-14.57.59:732][128]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_ChAnimation_C_10
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:0040
+[2024.05.25-14.57.59:732][128]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_ChAnimation_C_10
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:00EA
+[2024.05.25-14.57.59:733][128]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_10
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:0040
+[2024.05.25-14.57.59:733][128]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_10
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:00EA
+[2024.05.25-14.57.59:769][128]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2024.05.25-14.57.59:777][128]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_10
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:0040
+[2024.05.25-14.57.59:777][128]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_10
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:00EA
+[2024.05.25-14.57.59:812][129]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_10
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:0040
+[2024.05.25-14.57.59:812][129]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_10
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:00EA
+[2024.05.25-14.57.59:988][130]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_10
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:0040
+[2024.05.25-14.57.59:988][130]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_10
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:00EA
+[2024.05.25-14.58.00:004][131]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_10
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:0040
+[2024.05.25-14.58.00:004][131]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_10
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:00EA
+[2024.05.25-14.58.00:040][132]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_10
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:0040
+[2024.05.25-14.58.00:040][132]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_10
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:00EA
+[2024.05.25-14.58.00:072][133]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_10
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:0040
+[2024.05.25-14.58.00:072][133]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_10
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:00EA
+[2024.05.25-14.58.00:508][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_ChAnimation" FILE="C:/Users/Paulina/OneDrive/Pulpit/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/Pawns/BP_ChAnimation.uasset" SILENT=true
+[2024.05.25-14.58.00:518][145]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/TopDownPaulinaSa-ek/TopDown/Saved/BP_ChAnimation05E380EE41D19160306CFB90C73900C8.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/Pawns/BP_ChAnimation.uasset'
+[2024.05.25-14.58.00:535][145]AssetCheck: New page: Asset Save: BP_ChAnimation
+[2024.05.25-14.58.00:535][145]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation
+[2024.05.25-15.00.12:438][912]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2024.05.25-15.00.12:441][912]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Main' took 0.034
+[2024.05.25-15.00.12:442][912]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Pawns/BP_ChAnimation] ([2] browsable assets)...
+[2024.05.25-15.00.12:461][912]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation]
+[2024.05.25-15.00.12:461][912]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_ChAnimation]
+[2024.05.25-15.00.12:472][912]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/TopDownPaulinaSa-ek/TopDown/Saved/BP_ChAnimation_Auto608E93FA24E03BA1CA317D391D95BAAB4.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/TopDownPaulinaSa-ek/TopDown/Saved/Autosaves/Game/Blueprints/Pawns/BP_ChAnimation_Auto6.uasset'
+[2024.05.25-15.00.12:473][912]LogFileHelpers: Auto-saving content packages took 0.032
+[2024.05.25-15.02.05:616][243]BlueprintLog: New page: Compile BP_ChAnimation
+[2024.05.25-15.02.05:671][243]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_11
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:0040
+[2024.05.25-15.02.05:671][243]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_11
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:00EA
+[2024.05.25-15.02.05:671][243]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_11
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:017A
+[2024.05.25-15.02.05:671][243]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_11
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:01AC
+[2024.05.25-15.02.05:671][243]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_ChAnimation_C_11
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:0040
+[2024.05.25-15.02.05:671][243]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_ChAnimation_C_11
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:00EA
+[2024.05.25-15.02.05:671][243]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_ChAnimation_C_11
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:017A
+[2024.05.25-15.02.05:672][243]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_ChAnimation_C_11
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:01AC
+[2024.05.25-15.02.05:703][243]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2024.05.25-15.02.05:712][243]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_11
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:0040
+[2024.05.25-15.02.05:712][243]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_11
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:00EA
+[2024.05.25-15.02.05:713][243]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_11
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:017A
+[2024.05.25-15.02.05:713][243]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_11
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:01AC
+[2024.05.25-15.02.05:738][244]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_11
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:0040
+[2024.05.25-15.02.05:738][244]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_11
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:00EA
+[2024.05.25-15.02.05:738][244]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_11
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:017A
+[2024.05.25-15.02.05:738][244]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_11
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:01AC
+[2024.05.25-15.02.06:518][263]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_ChAnimation" FILE="C:/Users/Paulina/OneDrive/Pulpit/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/Pawns/BP_ChAnimation.uasset" SILENT=true
+[2024.05.25-15.02.06:531][263]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/TopDownPaulinaSa-ek/TopDown/Saved/BP_ChAnimationF3D84C7547378E6295B5368F7ABC7F7B.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/Pawns/BP_ChAnimation.uasset'
+[2024.05.25-15.02.06:543][263]AssetCheck: New page: Asset Save: BP_ChAnimation
+[2024.05.25-15.02.06:543][263]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation
+[2024.05.25-15.02.57:120][576]BlueprintLog: New page: Compile BP_ChAnimation
+[2024.05.25-15.02.57:144][576]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_ChAnimation_C_12
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:0040
+[2024.05.25-15.02.57:144][576]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_ChAnimation_C_12
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:00EA
+[2024.05.25-15.02.57:144][576]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_ChAnimation_C_12
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:017A
+[2024.05.25-15.02.57:144][576]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_ChAnimation_C_12
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:01AC
+[2024.05.25-15.02.57:145][576]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_12
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:0040
+[2024.05.25-15.02.57:145][576]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_12
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:00EA
+[2024.05.25-15.02.57:145][576]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_12
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:017A
+[2024.05.25-15.02.57:145][576]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_12
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:01AC
+[2024.05.25-15.02.57:182][576]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2024.05.25-15.02.57:191][576]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_12
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:0040
+[2024.05.25-15.02.57:191][576]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_12
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:00EA
+[2024.05.25-15.02.57:192][576]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_12
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:017A
+[2024.05.25-15.02.57:192][576]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_12
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:01AC
+[2024.05.25-15.02.57:222][577]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_12
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:0040
+[2024.05.25-15.02.57:222][577]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_12
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:00EA
+[2024.05.25-15.02.57:222][577]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_12
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:017A
+[2024.05.25-15.02.57:222][577]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_12
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:01AC
+[2024.05.25-15.02.57:814][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_ChAnimation" FILE="C:/Users/Paulina/OneDrive/Pulpit/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/Pawns/BP_ChAnimation.uasset" SILENT=true
+[2024.05.25-15.02.57:826][589]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/TopDownPaulinaSa-ek/TopDown/Saved/BP_ChAnimation83F9F0B7435006644E6A849D260CF178.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/Pawns/BP_ChAnimation.uasset'
+[2024.05.25-15.02.57:840][589]AssetCheck: New page: Asset Save: BP_ChAnimation
+[2024.05.25-15.02.57:840][589]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation
+[2024.05.25-15.03.31:735][739]LogTemp: Repeating last play command: Selected Viewport
+[2024.05.25-15.03.31:742][739]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.25-15.03.31:742][739]PIE: New page: PIE session: Main (25 maj 2024, 19:03:31)
+[2024.05.25-15.03.31:742][739]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.05.25-15.03.31:745][739]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003357s)
+[2024.05.25-15.03.31:746][739]LogAIModule: Creating AISystem for world Main
+[2024.05.25-15.03.31:747][739]LogPlayLevel: PIE: World Init took: (0.001370s)
+[2024.05.25-15.03.31:747][739]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.004855s)
+[2024.05.25-15.03.31:785][739]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2024.05.25-15.03.31:787][739]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.05.25-15.03.31:787][739]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.25-15.03.31:787][739]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.25-15.03.31:787][739]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.25-15.03.31:787][739]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.25-15.03.31:787][739]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.25-15.03.31:787][739]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.25-15.03.31:787][739]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.25-15.03.31:787][739]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.25-15.03.31:787][739]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.25-15.03.31:788][739]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.25-15.03.31:788][739]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.25-15.03.31:788][739]LogAudioMixer: Display: Initializing audio mixer.
+[2024.05.25-15.03.31:792][739]LogAudioMixer: Display: 0: FrontLeft
+[2024.05.25-15.03.31:792][739]LogAudioMixer: Display: 1: FrontRight
+[2024.05.25-15.03.31:837][739]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2024.05.25-15.03.31:837][739]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.25-15.03.31:837][739]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.25-15.03.31:837][739]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.25-15.03.31:838][739]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.05.25-15.03.31:838][739]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.05.25-15.03.31:838][739]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.05.25-15.03.31:839][739]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.05.25-15.03.31:839][739]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.05.25-15.03.31:839][739]LogInit: FAudioDevice initialized.
+[2024.05.25-15.03.31:839][739]LogAudio: Display: Audio Device (ID: 11) registered with world 'Main'.
+[2024.05.25-15.03.31:851][739]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2024.05.25-15.03.31:852][739]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.05.25-17.03.31
+[2024.05.25-15.03.31:852][739]LogWorld: Bringing up level for play took: 0.000445
+[2024.05.25-15.03.31:852][739]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2024.05.25-15.03.31:856][739]PIE: Server logged in
+[2024.05.25-15.03.31:858][739]PIE: Play in editor total start time 0,117 seconds.
+[2024.05.25-15.03.43:836][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.25-15.03.43:836][440]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.05.25-15.03.43:836][440]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.05.25-15.03.43:838][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.25-15.03.43:852][440]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.25-15.03.43:858][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.25-15.03.43:880][440]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.25-15.03.43:880][440]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.05.25-15.03.43:881][440]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.05.25-15.03.43:884][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.25-15.03.43:888][440]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2024.05.25-15.03.43:912][441]LogPlayLevel: Display: Destroying online subsystem :Context_37
