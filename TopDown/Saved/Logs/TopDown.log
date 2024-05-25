@@ -4299,3 +4299,679 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.05.25-17.54.35:193][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
 [2024.05.25-17.54.35:222][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
 [2024.05.25-17.54.35:244][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.05.25-17.58.37:934][849]LogTemp: Repeating last play command: Selected Viewport
+[2024.05.25-17.58.37:943][849]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.25-17.58.37:945][849]PIE: New page: PIE session: Main (25 maj 2024, 21:58:37)
+[2024.05.25-17.58.37:945][849]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.05.25-17.58.37:954][849]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009789s)
+[2024.05.25-17.58.37:955][849]LogAIModule: Creating AISystem for world Main
+[2024.05.25-17.58.37:955][849]LogPlayLevel: PIE: World Init took: (0.000916s)
+[2024.05.25-17.58.37:955][849]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.010809s)
+[2024.05.25-17.58.37:985][849]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2024.05.25-17.58.37:987][849]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2024.05.25-17.58.37:987][849]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.25-17.58.37:987][849]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.25-17.58.37:987][849]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.25-17.58.37:987][849]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.25-17.58.37:987][849]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.25-17.58.37:987][849]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.25-17.58.37:987][849]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.25-17.58.37:987][849]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.25-17.58.37:988][849]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.25-17.58.37:988][849]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.25-17.58.37:988][849]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.25-17.58.37:988][849]LogAudioMixer: Display: Initializing audio mixer.
+[2024.05.25-17.58.38:002][849]LogAudioMixer: Display: 0: FrontLeft
+[2024.05.25-17.58.38:002][849]LogAudioMixer: Display: 1: FrontRight
+[2024.05.25-17.58.38:038][849]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2024.05.25-17.58.38:039][849]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.25-17.58.38:039][849]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.25-17.58.38:039][849]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.25-17.58.38:044][849]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.05.25-17.58.38:044][849]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.05.25-17.58.38:044][849]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.05.25-17.58.38:047][849]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.05.25-17.58.38:047][849]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.05.25-17.58.38:047][849]LogInit: FAudioDevice initialized.
+[2024.05.25-17.58.38:047][849]LogAudio: Display: Audio Device (ID: 30) registered with world 'Main'.
+[2024.05.25-17.58.38:058][849]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2024.05.25-17.58.38:060][849]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.05.25-19.58.38
+[2024.05.25-17.58.38:060][849]LogWorld: Bringing up level for play took: 0.001133
+[2024.05.25-17.58.38:060][849]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2024.05.25-17.58.38:062][849]PIE: Server logged in
+[2024.05.25-17.58.38:063][849]PIE: Play in editor total start time 0,121 seconds.
+[2024.05.25-17.59.27:793][825]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.25-17.59.27:793][825]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.05.25-17.59.27:793][825]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.05.25-17.59.27:794][825]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.25-17.59.27:806][825]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.25-17.59.27:810][825]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.25-17.59.27:834][825]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.25-17.59.27:834][825]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.05.25-17.59.27:836][825]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.05.25-17.59.27:843][825]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2024.05.25-17.59.27:897][827]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2024.05.25-17.59.37:410][372]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2024.05.25-17.59.39:188][469]LogTemp: Warning: Select a mesh. Switch tools to paint vertex colors, blend between textures, or paint directly onto a texture file.
+[2024.05.25-18.01.12:268][644]Cmd: DELETE
+[2024.05.25-18.01.12:268][644]Cmd: ACTOR DELETE
+[2024.05.25-18.01.12:273][644]LogEditorActor: Deleted Actor: PostProcessVolume
+[2024.05.25-18.01.12:306][644]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2024.05.25-18.01.12:318][644]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2024.05.25-18.04.55:406][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.05.25-18.04.55:418][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="C:/Users/Paulina/OneDrive/Pulpit/TopDownPaulinaSa-ek/TopDown/Saved/Autosaves/Game/Maps/Main_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.05.25-18.04.55:595][284]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/TopDownPaulinaSa-ek/TopDown/Saved/Main_Auto39EBA4944471AC4BA2B82B29DC75DD3AD.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/TopDownPaulinaSa-ek/TopDown/Saved/Autosaves/Game/Maps/Main_Auto3.umap'
+[2024.05.25-18.04.55:610][284]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Main' took 0.230
+[2024.05.25-18.04.55:610][284]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.230
+[2024.05.25-18.57.59:251][486]LogTemp: Repeating last play command: Selected Viewport
+[2024.05.25-18.57.59:257][486]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.25-18.57.59:257][486]PIE: New page: PIE session: Main (25 maj 2024, 22:57:59)
+[2024.05.25-18.57.59:258][486]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.05.25-18.57.59:275][486]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015973s)
+[2024.05.25-18.57.59:276][486]LogAIModule: Creating AISystem for world Main
+[2024.05.25-18.57.59:276][486]LogPlayLevel: PIE: World Init took: (0.001561s)
+[2024.05.25-18.57.59:276][486]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.017769s)
+[2024.05.25-18.57.59:305][486]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2024.05.25-18.57.59:308][486]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2024.05.25-18.57.59:309][486]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.25-18.57.59:309][486]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.25-18.57.59:309][486]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.25-18.57.59:309][486]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.25-18.57.59:309][486]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.25-18.57.59:309][486]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.25-18.57.59:309][486]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.25-18.57.59:309][486]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.25-18.57.59:309][486]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.25-18.57.59:309][486]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.25-18.57.59:309][486]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.25-18.57.59:309][486]LogAudioMixer: Display: Initializing audio mixer.
+[2024.05.25-18.57.59:343][486]LogAudioMixer: Display: 0: FrontLeft
+[2024.05.25-18.57.59:343][486]LogAudioMixer: Display: 1: FrontRight
+[2024.05.25-18.57.59:380][486]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2024.05.25-18.57.59:384][486]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.25-18.57.59:384][486]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.25-18.57.59:384][486]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.25-18.57.59:386][486]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.05.25-18.57.59:386][486]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.05.25-18.57.59:386][486]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.05.25-18.57.59:388][486]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.05.25-18.57.59:388][486]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.05.25-18.57.59:388][486]LogInit: FAudioDevice initialized.
+[2024.05.25-18.57.59:388][486]LogAudio: Display: Audio Device (ID: 31) registered with world 'Main'.
+[2024.05.25-18.57.59:402][486]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2024.05.25-18.57.59:405][486]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.05.25-20.57.59
+[2024.05.25-18.57.59:405][486]LogWorld: Bringing up level for play took: 0.001679
+[2024.05.25-18.57.59:405][486]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2024.05.25-18.57.59:410][486]PIE: Server logged in
+[2024.05.25-18.57.59:411][486]PIE: Play in editor total start time 0,155 seconds.
+[2024.05.25-18.58.10:846][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.25-18.58.10:846][168]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.05.25-18.58.10:846][168]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.05.25-18.58.10:846][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.25-18.58.10:856][168]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.25-18.58.10:860][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.25-18.58.10:894][168]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.25-18.58.10:894][168]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.05.25-18.58.10:896][168]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.05.25-18.58.10:899][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.25-18.58.10:902][168]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2024.05.25-18.58.10:922][169]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2024.05.25-18.58.28:145][190]LogRenderer: Reallocating scene render targets to support 1072x636 Format 10 NumSamples 1 (Frame:114475).
+[2024.05.25-18.58.28:185][191]LogRenderer: Reallocating scene render targets to support 1072x652 Format 10 NumSamples 1 (Frame:114477).
+[2024.05.25-18.58.28:226][192]LogRenderer: Reallocating scene render targets to support 1072x656 Format 10 NumSamples 1 (Frame:114479).
+[2024.05.25-18.58.28:269][193]LogRenderer: Reallocating scene render targets to support 1072x660 Format 10 NumSamples 1 (Frame:114481).
+[2024.05.25-18.58.54:153][727]LogTemp: Repeating last play command: Selected Viewport
+[2024.05.25-18.58.54:158][727]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.25-18.58.54:158][727]PIE: New page: PIE session: Main (25 maj 2024, 22:58:54)
+[2024.05.25-18.58.54:159][727]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.05.25-18.58.54:176][727]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016758s)
+[2024.05.25-18.58.54:177][727]LogAIModule: Creating AISystem for world Main
+[2024.05.25-18.58.54:178][727]LogPlayLevel: PIE: World Init took: (0.001225s)
+[2024.05.25-18.58.54:178][727]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.018097s)
+[2024.05.25-18.58.54:208][727]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2024.05.25-18.58.54:211][727]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2024.05.25-18.58.54:211][727]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.25-18.58.54:211][727]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.25-18.58.54:211][727]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.25-18.58.54:211][727]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.25-18.58.54:211][727]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.25-18.58.54:211][727]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.25-18.58.54:211][727]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.25-18.58.54:211][727]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.25-18.58.54:212][727]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.25-18.58.54:212][727]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.25-18.58.54:212][727]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.25-18.58.54:212][727]LogAudioMixer: Display: Initializing audio mixer.
+[2024.05.25-18.58.54:215][727]LogAudioMixer: Display: 0: FrontLeft
+[2024.05.25-18.58.54:215][727]LogAudioMixer: Display: 1: FrontRight
+[2024.05.25-18.58.54:251][727]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2024.05.25-18.58.54:251][727]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.25-18.58.54:251][727]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.25-18.58.54:251][727]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.25-18.58.54:253][727]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.05.25-18.58.54:253][727]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.05.25-18.58.54:253][727]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.05.25-18.58.54:255][727]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.05.25-18.58.54:255][727]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.05.25-18.58.54:255][727]LogInit: FAudioDevice initialized.
+[2024.05.25-18.58.54:255][727]LogAudio: Display: Audio Device (ID: 32) registered with world 'Main'.
+[2024.05.25-18.58.54:269][727]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2024.05.25-18.58.54:271][727]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.05.25-20.58.54
+[2024.05.25-18.58.54:271][727]LogWorld: Bringing up level for play took: 0.001336
+[2024.05.25-18.58.54:271][727]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2024.05.25-18.58.54:275][727]PIE: Server logged in
+[2024.05.25-18.58.54:276][727]PIE: Play in editor total start time 0,118 seconds.
+[2024.05.25-18.59.49:483][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.25-18.59.49:483][688]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.05.25-18.59.49:488][688]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.05.25-18.59.49:489][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.25-18.59.49:552][688]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.25-18.59.49:558][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.25-18.59.49:587][688]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.25-18.59.49:588][688]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.05.25-18.59.49:589][688]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.05.25-18.59.49:591][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.25-18.59.49:596][688]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2024.05.25-18.59.49:623][689]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2024.05.25-19.00.10:447][736]LogRenderer: Reallocating scene render targets to support 1072x828 Format 10 NumSamples 1 (Frame:117111).
+[2024.05.25-19.00.19:351][216]BlueprintLog: New page: Compile BP_Character
+[2024.05.25-19.00.19:451][216]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2024.05.25-19.00.19:985][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_Character" FILE="C:/Users/Paulina/OneDrive/Pulpit/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/Pawns/BP_Character.uasset" SILENT=true
+[2024.05.25-19.00.20:001][234]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/TopDownPaulinaSa-ek/TopDown/Saved/BP_Character7BE5C72949AEB231050E428D8A1C1FEA.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/Pawns/BP_Character.uasset'
+[2024.05.25-19.00.20:017][234]AssetCheck: New page: Asset Save: BP_Character
+[2024.05.25-19.00.20:017][234]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_Character.BP_Character
+[2024.05.25-19.00.21:896][301]LogTemp: Repeating last play command: Selected Viewport
+[2024.05.25-19.00.21:905][301]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.25-19.00.21:906][301]PIE: New page: PIE session: Main (25 maj 2024, 23:00:21)
+[2024.05.25-19.00.21:906][301]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.05.25-19.00.21:918][301]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010908s)
+[2024.05.25-19.00.21:919][301]LogAIModule: Creating AISystem for world Main
+[2024.05.25-19.00.21:919][301]LogPlayLevel: PIE: World Init took: (0.001043s)
+[2024.05.25-19.00.21:919][301]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.012124s)
+[2024.05.25-19.00.21:949][301]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2024.05.25-19.00.21:955][301]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2024.05.25-19.00.21:955][301]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.25-19.00.21:955][301]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.25-19.00.21:955][301]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.25-19.00.21:955][301]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.25-19.00.21:955][301]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.25-19.00.21:955][301]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.25-19.00.21:955][301]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.25-19.00.21:955][301]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.25-19.00.21:956][301]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.25-19.00.21:956][301]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.25-19.00.21:956][301]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.25-19.00.21:956][301]LogAudioMixer: Display: Initializing audio mixer.
+[2024.05.25-19.00.21:958][301]LogAudioMixer: Display: 0: FrontLeft
+[2024.05.25-19.00.21:959][301]LogAudioMixer: Display: 1: FrontRight
+[2024.05.25-19.00.21:996][301]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2024.05.25-19.00.21:997][301]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.25-19.00.21:997][301]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.25-19.00.21:997][301]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.25-19.00.21:998][301]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.05.25-19.00.21:998][301]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.05.25-19.00.21:998][301]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.05.25-19.00.22:000][301]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.05.25-19.00.22:000][301]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.05.25-19.00.22:000][301]LogInit: FAudioDevice initialized.
+[2024.05.25-19.00.22:000][301]LogAudio: Display: Audio Device (ID: 33) registered with world 'Main'.
+[2024.05.25-19.00.22:009][301]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2024.05.25-19.00.22:011][301]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.05.25-21.00.22
+[2024.05.25-19.00.22:011][301]LogWorld: Bringing up level for play took: 0.001527
+[2024.05.25-19.00.22:011][301]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2024.05.25-19.00.22:016][301]PIE: Server logged in
+[2024.05.25-19.00.22:017][301]PIE: Play in editor total start time 0,112 seconds.
+[2024.05.25-19.00.30:305][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.25-19.00.30:305][725]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.05.25-19.00.30:305][725]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.05.25-19.00.30:306][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.25-19.00.30:364][725]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.25-19.00.30:371][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.25-19.00.30:394][725]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.25-19.00.30:395][725]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.05.25-19.00.30:396][725]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.05.25-19.00.30:402][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.25-19.00.30:406][725]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2024.05.25-19.00.30:427][726]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2024.05.25-19.04.16:739][538]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons\Weapons/MaterialLayers/ML_BoltMetal.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.16:742][538]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons\Weapons/MaterialLayers/ML_Metal_Copper.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.16:747][538]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons\Weapons/MaterialLayers/ML_Metal_Gray.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.16:751][538]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons\Weapons/MaterialLayers/ML_Paint.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.16:755][538]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons\Weapons/MaterialLayers/ML_Rubber.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.16:760][538]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons\Weapons/MaterialLayers/T_ExampleLayers_Metal02_N.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.16:764][538]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons\Weapons/MaterialLayers/T_Metal_Metal02_D.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.16:769][538]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons\Weapons/MaterialLayers/T_PaintedMetal01_N.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.16:773][538]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons\Weapons/MaterialLayers/T_PaintedMetal02.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.16:777][538]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons\Weapons/MaterialLayers/T_Rubber.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.16:781][538]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons\Weapons/Materials/MagGun_MatA.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.16:784][538]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons\Weapons/Materials/MagGun_MatA_Inst3.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.16:790][538]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons\Weapons/Materials/MagGun_MatB.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.16:794][538]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons\Weapons/Materials/MagGun_MatB_Inst2.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.16:799][538]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons\Weapons/Materials/MagGun_MatB_Inst3.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.16:803][538]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons\Weapons/Materials/MagGun_SightLens_Mat.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.16:808][538]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons\Weapons/Materials/MagGun_SightLens_Mat_Inst.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.16:813][538]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons\Weapons/Rifle.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.16:815][538]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons\Weapons/Rifle_Skeleton.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.16:819][538]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons\Weapons/Textures/MagGunT1_section.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.16:823][538]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons\Weapons/Textures/MagGunT1_shade.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.16:828][538]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons\Weapons/Textures/MagGunT2_section.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.16:832][538]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons\Weapons/Textures/MagGunT2_shade.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.16:836][538]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons\Weapons/Textures/MagGun_01_N.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.16:839][538]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons\Weapons/Textures/MagGun_02_N.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.16:843][538]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons\Weapons/Textures/MagGun_Decals.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.16:847][538]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons\Weapons/Textures/MagGun_Display_EM.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.16:851][538]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons\Weapons/Textures/SightLens_maskA.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.16:854][538]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons\Weapons/Textures/SightLens_maskB.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.27:046][643]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/MaterialLayers/ML_BoltMetal.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.27:049][643]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/MaterialLayers/ML_Metal_Copper.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.27:053][643]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/MaterialLayers/ML_Metal_Gray.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.27:057][643]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/MaterialLayers/ML_Paint.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.27:061][643]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/MaterialLayers/ML_Rubber.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.27:065][643]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/MaterialLayers/T_ExampleLayers_Metal02_N.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.27:070][643]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/MaterialLayers/T_Metal_Metal02_D.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.27:073][643]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/MaterialLayers/T_PaintedMetal01_N.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.27:078][643]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/MaterialLayers/T_PaintedMetal02.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.27:081][643]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/MaterialLayers/T_Rubber.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.27:085][643]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/Materials/MagGun_MatA.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.27:089][643]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/Materials/MagGun_MatA_Inst3.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.27:092][643]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/Materials/MagGun_MatB.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.27:096][643]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/Materials/MagGun_MatB_Inst2.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.27:102][643]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/Materials/MagGun_MatB_Inst3.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.27:106][643]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/Materials/MagGun_SightLens_Mat.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.27:109][643]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/Materials/MagGun_SightLens_Mat_Inst.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.27:113][643]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/Rifle.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.27:117][643]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/Rifle_Skeleton.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.27:120][643]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/Textures/MagGunT1_section.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.27:124][643]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/Textures/MagGunT1_shade.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.27:128][643]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/Textures/MagGunT2_section.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.27:133][643]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/Textures/MagGunT2_shade.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.27:137][643]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/Textures/MagGun_01_N.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.27:139][643]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/Textures/MagGun_02_N.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.27:144][643]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/Textures/MagGun_Decals.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.27:148][643]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/Textures/MagGun_Display_EM.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.27:152][643]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/Textures/SightLens_maskA.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.27:155][643]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/Textures/SightLens_maskB.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.43:022][907]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons.zip'. Unknown extension 'zip'.
+[2024.05.25-19.04.46:640][940]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/MaterialLayers/ML_BoltMetal.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.46:645][940]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/MaterialLayers/ML_Metal_Copper.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.46:649][940]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/MaterialLayers/ML_Metal_Gray.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.46:652][940]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/MaterialLayers/ML_Paint.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.46:655][940]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/MaterialLayers/ML_Rubber.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.46:659][940]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/MaterialLayers/T_ExampleLayers_Metal02_N.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.46:663][940]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/MaterialLayers/T_Metal_Metal02_D.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.46:668][940]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/MaterialLayers/T_PaintedMetal01_N.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.46:672][940]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/MaterialLayers/T_PaintedMetal02.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.46:677][940]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/MaterialLayers/T_Rubber.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.46:681][940]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/Materials/MagGun_MatA.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.46:684][940]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/Materials/MagGun_MatA_Inst3.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.46:688][940]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/Materials/MagGun_MatB.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.46:691][940]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/Materials/MagGun_MatB_Inst2.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.46:695][940]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/Materials/MagGun_MatB_Inst3.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.46:701][940]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/Materials/MagGun_SightLens_Mat.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.46:705][940]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/Materials/MagGun_SightLens_Mat_Inst.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.46:709][940]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/Rifle.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.46:713][940]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/Rifle_Skeleton.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.46:716][940]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/Textures/MagGunT1_section.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.46:719][940]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/Textures/MagGunT1_shade.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.46:723][940]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/Textures/MagGunT2_section.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.46:728][940]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/Textures/MagGunT2_shade.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.46:732][940]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/Textures/MagGun_01_N.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.46:736][940]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/Textures/MagGun_02_N.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.46:740][940]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/Textures/MagGun_Decals.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.46:744][940]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/Textures/MagGun_Display_EM.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.46:748][940]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/Textures/SightLens_maskA.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.04.46:751][940]LogAssetTools: Warning: Failed to import 'C:\Users\Paulina\Downloads\Weapons/Weapons/Textures/SightLens_maskB.uasset'. Unknown extension 'uasset'.
+[2024.05.25-19.12.08:382][ 53]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Rifle.uasset: Failed to load '/Game/Weapons/Materials/MagGun_MatA_Inst3': Can't find file.
+[2024.05.25-19.12.08:382][ 53]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Rifle.uasset: Failed to load '/Game/Weapons/Materials/MagGun_MatA_Inst3': Can't find file.
+[2024.05.25-19.12.08:383][ 53]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Rifle.uasset: Failed to load '/Game/Weapons/Materials/MagGun_MatB_Inst2': Can't find file.
+[2024.05.25-19.12.08:383][ 53]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Rifle.uasset: Failed to load '/Game/Weapons/Materials/MagGun_MatB_Inst2': Can't find file.
+[2024.05.25-19.12.08:383][ 53]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Rifle.uasset: Failed to load '/Game/Weapons/Materials/MagGun_SightLens_Mat_Inst': Can't find file.
+[2024.05.25-19.12.08:383][ 53]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Rifle.uasset: Failed to load '/Game/Weapons/Materials/MagGun_SightLens_Mat_Inst': Can't find file.
+[2024.05.25-19.12.08:383][ 53]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Rifle.uasset: Failed to load '/Game/Weapons/Materials/MagGun_MatA_Inst3': Can't find file.
+[2024.05.25-19.12.08:383][ 53]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Rifle.uasset: Failed to load '/Game/Weapons/Materials/MagGun_MatB_Inst2': Can't find file.
+[2024.05.25-19.12.08:384][ 53]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Rifle.uasset: Failed to load '/Game/Weapons/Materials/MagGun_SightLens_Mat_Inst': Can't find file.
+[2024.05.25-19.12.08:384][ 53]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Rifle.uasset: Failed to load '/Game/Weapons/Rifle_Skeleton': Can't find file.
+[2024.05.25-19.12.08:384][ 53]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Rifle.uasset: Failed to load '/Game/Weapons/Rifle_Skeleton': Can't find file.
+[2024.05.25-19.12.08:384][ 53]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Rifle.uasset: Failed to load '/Game/Weapons/Rifle_Skeleton': Can't find file.
+[2024.05.25-19.12.08:386][ 53]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Rifle.uasset: Failed to load '/Game/Weapons/Rifle_Skeleton': Can't find file.
+[2024.05.25-19.12.08:387][ 53]LoadErrors: Failed to load /Game/Weapons/Rifle_Skeleton.Rifle_Skeleton Referenced by Rifle
+[2024.05.25-19.12.08:389][ 53]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Rifle.uasset: Failed to load '/Game/Weapons/Materials/MagGun_MatA_Inst3': Can't find file.
+[2024.05.25-19.12.08:389][ 53]LoadErrors: Failed to load /Game/Weapons/Materials/MagGun_MatA_Inst3.MagGun_MatA_Inst3 Referenced by Rifle
+[2024.05.25-19.12.08:389][ 53]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Rifle.uasset: Failed to load '/Game/Weapons/Materials/MagGun_MatB_Inst2': Can't find file.
+[2024.05.25-19.12.08:389][ 53]LoadErrors: Failed to load /Game/Weapons/Materials/MagGun_MatB_Inst2.MagGun_MatB_Inst2 Referenced by Rifle
+[2024.05.25-19.12.08:389][ 53]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Rifle.uasset: Failed to load '/Game/Weapons/Materials/MagGun_SightLens_Mat_Inst': Can't find file.
+[2024.05.25-19.12.08:390][ 53]LoadErrors: Failed to load /Game/Weapons/Materials/MagGun_SightLens_Mat_Inst.MagGun_SightLens_Mat_Inst Referenced by Rifle
+[2024.05.25-19.12.08:411][ 53]LogSkeletalMesh: Display: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Rifle.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2024.05.25-19.12.08:415][ 53]LogSkeletalMesh: Building Skeletal Mesh Rifle...
+[2024.05.25-19.12.08:444][ 53]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Weapons/Weapons/Rifle.Rifle
+[2024.05.25-19.12.08:471][ 53]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Weapons/Weapons/Rifle.Rifle
+[2024.05.25-19.12.21:161][ 53]LogSlate: Window 'Message' being destroyed
+[2024.05.25-19.12.21:165][ 53]Message dialog closed, result: Yes, title: Message, text: This mesh currently has no valid Skeleton. Would you like to create a new Skeleton?
+[2024.05.25-19.12.21:215][ 53]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.25-19.12.32:680][546]LogTexture: Display: Building textures: T_Enemy_GreaterSpider_Fire_M (OODLE_AutoDXT, 2048X2048)
+[2024.05.25-19.12.32:680][546]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.05.25-19.12.32:680][546]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.05.25-19.12.32:680][546]LogTexture: Display: Building textures: T_Enemy_GreaterSpider_Fire_D (OODLE_AutoDXT, 2048X2048)
+[2024.05.25-19.12.32:680][546]LogTexture: Display: Building textures: T_Enemy_GreaterSpider_Fire_N (OODLE_BC5, 2048X2048)
+[2024.05.25-19.12.32:680][546]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.05.25-19.12.32:680][546]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.05.25-19.12.32:680][546]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.05.25-19.12.32:680][546]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.05.25-19.12.32:680][546]LogMaterial: Display: Missing cached shadermap for CharM_Greater_Spider in PCD3D_SM5, Default, SM5 (DDC key hash: 141AA4A0A3CC87D1B2553F049186D0033CBE8A0A), compiling. 
+[2024.05.25-19.12.32:716][546]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2024.05.25-19.12.32:728][546]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 32
+[2024.05.25-19.12.32:729][546]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 27
+[2024.05.25-19.12.32:729][546]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 22
+[2024.05.25-19.12.32:729][546]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 17
+[2024.05.25-19.12.32:729][546]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2024.05.25-19.12.32:729][546]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2024.05.25-19.12.32:729][546]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2024.05.25-19.12.32:729][546]LogShaderCompilers: Display: Started 32 'Local' shader compile jobs with 'Low' priority
+[2024.05.25-19.12.32:731][546]LogSkeletalMesh: Building Skeletal Mesh Rifle...
+[2024.05.25-19.12.32:765][546]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/Weapons/Weapons/Rifle.Rifle
+[2024.05.25-19.12.35:725][579]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.25-19.12.35:725][579]LogShaderCompilers: Display: Total job queries 1588, among them cache hits 1159 (72.98%)
+[2024.05.25-19.12.35:725][579]LogShaderCompilers: Display: Tracking 379 distinct input hashes that result in 147 distinct outputs (38.79%)
+[2024.05.25-19.12.35:725][579]LogShaderCompilers: Display: RAM used: 0.87 MB (0.00 GB) of 716.80 MB (0.70 GB) budget. Usage: 0.12%
+[2024.05.25-19.12.35:725][579]LogShaderCompilers: Display: ================================================
+[2024.05.25-19.12.37:393][595]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_BoltMetal': Can't find file.
+[2024.05.25-19.12.37:393][595]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_BoltMetal': Can't find file.
+[2024.05.25-19.12.37:393][595]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_Metal_Copper': Can't find file.
+[2024.05.25-19.12.37:393][595]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_Metal_Copper': Can't find file.
+[2024.05.25-19.12.37:393][595]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_Metal_Gray': Can't find file.
+[2024.05.25-19.12.37:394][595]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_Metal_Gray': Can't find file.
+[2024.05.25-19.12.37:394][595]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_Paint': Can't find file.
+[2024.05.25-19.12.37:394][595]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_Paint': Can't find file.
+[2024.05.25-19.12.37:394][595]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_Rubber': Can't find file.
+[2024.05.25-19.12.37:396][595]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_Rubber': Can't find file.
+[2024.05.25-19.12.37:396][595]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_BoltMetal': Can't find file.
+[2024.05.25-19.12.37:396][595]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_Metal_Copper': Can't find file.
+[2024.05.25-19.12.37:396][595]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_Metal_Gray': Can't find file.
+[2024.05.25-19.12.37:396][595]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_Paint': Can't find file.
+[2024.05.25-19.12.37:396][595]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_Rubber': Can't find file.
+[2024.05.25-19.12.37:396][595]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/Textures/MagGun_01_N': Can't find file.
+[2024.05.25-19.12.37:397][595]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/Textures/MagGun_01_N': Can't find file.
+[2024.05.25-19.12.37:397][595]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/Textures/MagGun_Decals': Can't find file.
+[2024.05.25-19.12.37:397][595]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/Textures/MagGun_Decals': Can't find file.
+[2024.05.25-19.12.37:397][595]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/Textures/MagGunT1_section': Can't find file.
+[2024.05.25-19.12.37:398][595]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/Textures/MagGunT1_section': Can't find file.
+[2024.05.25-19.12.37:398][595]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/Textures/MagGunT1_shade': Can't find file.
+[2024.05.25-19.12.37:398][595]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/Textures/MagGunT1_shade': Can't find file.
+[2024.05.25-19.12.37:399][595]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/Textures/MagGun_01_N': Can't find file.
+[2024.05.25-19.12.37:399][595]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/Textures/MagGun_Decals': Can't find file.
+[2024.05.25-19.12.37:399][595]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/Textures/MagGunT1_section': Can't find file.
+[2024.05.25-19.12.37:399][595]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/Textures/MagGunT1_shade': Can't find file.
+[2024.05.25-19.12.37:402][595]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_Metal_Gray': Can't find file.
+[2024.05.25-19.12.37:402][595]LoadErrors: Failed to load /Game/Weapons/MaterialLayers/ML_Metal_Gray.ML_Metal_Gray Referenced by MaterialExpressionMaterialFunctionCall_10
+[2024.05.25-19.12.37:403][595]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_Rubber': Can't find file.
+[2024.05.25-19.12.37:403][595]LoadErrors: Failed to load /Game/Weapons/MaterialLayers/ML_Rubber.ML_Rubber Referenced by MaterialExpressionMaterialFunctionCall_26
+[2024.05.25-19.12.37:404][595]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_Paint': Can't find file.
+[2024.05.25-19.12.37:404][595]LoadErrors: Failed to load /Game/Weapons/MaterialLayers/ML_Paint.ML_Paint Referenced by MaterialExpressionMaterialFunctionCall_28
+[2024.05.25-19.12.37:404][595]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_BoltMetal': Can't find file.
+[2024.05.25-19.12.37:404][595]LoadErrors: Failed to load /Game/Weapons/MaterialLayers/ML_BoltMetal.ML_BoltMetal Referenced by MaterialExpressionMaterialFunctionCall_7
+[2024.05.25-19.12.37:404][595]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_Metal_Copper': Can't find file.
+[2024.05.25-19.12.37:404][595]LoadErrors: Failed to load /Game/Weapons/MaterialLayers/ML_Metal_Copper.ML_Metal_Copper Referenced by MaterialExpressionMaterialFunctionCall_8
+[2024.05.25-19.12.37:405][595]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/Textures/MagGun_Decals': Can't find file.
+[2024.05.25-19.12.37:405][595]LoadErrors: Failed to load /Game/Weapons/Textures/MagGun_Decals.MagGun_Decals Referenced by MaterialExpressionTextureObject_3
+[2024.05.25-19.12.37:405][595]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/Textures/MagGunT1_section': Can't find file.
+[2024.05.25-19.12.37:405][595]LoadErrors: Failed to load /Game/Weapons/Textures/MagGunT1_section.MagGunT1_section Referenced by MaterialExpressionTextureSample_0
+[2024.05.25-19.12.37:406][595]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/Textures/MagGun_01_N': Can't find file.
+[2024.05.25-19.12.37:406][595]LoadErrors: Failed to load /Game/Weapons/Textures/MagGun_01_N.MagGun_01_N Referenced by MaterialExpressionTextureSample_10
+[2024.05.25-19.12.37:406][595]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/Textures/MagGunT1_shade': Can't find file.
+[2024.05.25-19.12.37:406][595]LoadErrors: Failed to load /Game/Weapons/Textures/MagGunT1_shade.MagGunT1_shade Referenced by MaterialExpressionTextureSample_8
+[2024.05.25-19.12.37:451][595]LogMaterial: Display: Missing cached shadermap for MagGun_MatA in PCD3D_SM5, Default, SM5 (DDC key hash: 02BA5C47AA48558EF784E36FB3469D67A91A8A6F), compiling. 
+[2024.05.25-19.12.37:457][595]LogMaterial: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.05.25-19.12.37:457][595]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.05.25-19.12.37:457][595]LogMaterial: Display: 	Missing Material Function
+[2024.05.25-19.12.37:457][595]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Normal
+[2024.05.25-19.12.37:457][595]LogMaterial: Display: 	(Node TextureObject) Texture Object> Requires valid texture
+[2024.05.25-19.12.37:457][595]LogMaterial: Display: 	Function MatLayerBlend_Decal: (Node MakeMaterialAttributes) Error on property Normal
+[2024.05.25-19.12.37:457][595]LogMaterial: Display: 	Function MatLayerBlend_BakedNormal: (Node MakeMaterialAttributes) Error on property Normal
+[2024.05.25-19.12.37:457][595]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2024.05.25-19.12.37:457][595]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property BaseColor
+[2024.05.25-19.12.37:457][595]LogMaterial: Display: 	Function MatLayerBlend_Decal: (Node MakeMaterialAttributes) Error on property BaseColor
+[2024.05.25-19.12.37:457][595]LogMaterial: Display: 	Function MatLayerBlend_TintAllChannels: (Node MakeMaterialAttributes) Error on property BaseColor
+[2024.05.25-19.12.37:457][595]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Metallic
+[2024.05.25-19.12.37:457][595]LogMaterial: Display: 	Function MatLayerBlend_Decal: (Node MakeMaterialAttributes) Error on property Metallic
+[2024.05.25-19.12.37:457][595]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Specular
+[2024.05.25-19.12.37:457][595]LogMaterial: Display: 	Function MatLayerBlend_TintAllChannels: (Node MakeMaterialAttributes) Error on property Specular
+[2024.05.25-19.12.37:457][595]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Roughness
+[2024.05.25-19.12.37:457][595]LogMaterial: Display: 	Function MatLayerBlend_RoughnessOverride: (Node MakeMaterialAttributes) Error on property Roughness
+[2024.05.25-19.12.37:457][595]LogMaterial: Display: 	Function MatLayerBlend_Decal: (Node MakeMaterialAttributes) Error on property Roughness
+[2024.05.25-19.12.37:457][595]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property AmbientOcclusion
+[2024.05.25-19.12.37:457][595]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property PixelDepthOffset
+[2024.05.25-19.12.42:572][712]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA_Inst3.uasset: Failed to load '/Game/Weapons/Materials/MagGun_MatA': Can't find file.
+[2024.05.25-19.12.42:572][712]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA_Inst3.uasset: Failed to load '/Game/Weapons/Materials/MagGun_MatA': Can't find file.
+[2024.05.25-19.12.42:573][712]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA_Inst3.uasset: Failed to load '/Game/Weapons/Materials/MagGun_MatA': Can't find file.
+[2024.05.25-19.12.42:574][712]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA_Inst3.uasset: Failed to load '/Game/Weapons/Materials/MagGun_MatA': Can't find file.
+[2024.05.25-19.12.42:574][712]LoadErrors: Failed to load /Game/Weapons/Materials/MagGun_MatA.MagGun_MatA Referenced by MagGun_MatA_Inst3
+[2024.05.25-19.12.46:322][792]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB_Inst2.uasset: Failed to load '/Game/Weapons/Materials/MagGun_MatB': Can't find file.
+[2024.05.25-19.12.46:322][792]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB_Inst2.uasset: Failed to load '/Game/Weapons/Materials/MagGun_MatB': Can't find file.
+[2024.05.25-19.12.46:323][792]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB_Inst2.uasset: Failed to load '/Game/Weapons/Materials/MagGun_MatB': Can't find file.
+[2024.05.25-19.12.46:323][792]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB_Inst2.uasset: Failed to load '/Game/Weapons/Materials/MagGun_MatB': Can't find file.
+[2024.05.25-19.12.46:323][792]LoadErrors: Failed to load /Game/Weapons/Materials/MagGun_MatB.MagGun_MatB Referenced by MagGun_MatB_Inst2
+[2024.05.25-19.12.55:582][167]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Weapons/Weapons/Rifle_Skeleton.Rifle_Skeleton
+[2024.05.25-19.13.24:982][827]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.05.25-19.13.24:982][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.25-19.13.26:072][871]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.05.25-19.13.26:072][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.25-19.13.32:772][134]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2024.05.25-19.13.34:058][134]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.25-19.13.34:089][134]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Weapons/Weapons/Rifle_Skeleton1.Rifle_Skeleton1
+[2024.05.25-19.13.34:501][134]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2024.05.25-19.13.34:521][134]LogAnimation: Warning: SkeletalMesh Rifle has no skeleton. This needs to fixed before an animation can be set
+[2024.05.25-19.13.34:535][135]LogAnimation: Warning: SkeletalMesh Rifle has no skeleton. This needs to fixed before an animation can be set
+[2024.05.25-19.13.34:553][136]LogAnimation: Warning: SkeletalMesh Rifle has no skeleton. This needs to fixed before an animation can be set
+[2024.05.25-19.13.34:596][137]LogAnimation: Warning: SkeletalMesh Rifle has no skeleton. This needs to fixed before an animation can be set
+[2024.05.25-19.13.34:633][138]LogAnimation: Warning: SkeletalMesh Rifle has no skeleton. This needs to fixed before an animation can be set
+[2024.05.25-19.13.34:669][139]LogAnimation: Warning: SkeletalMesh Rifle has no skeleton. This needs to fixed before an animation can be set
+[2024.05.25-19.13.34:705][140]LogAnimation: Warning: SkeletalMesh Rifle has no skeleton. This needs to fixed before an animation can be set
+[2024.05.25-19.13.34:742][141]LogAnimation: Warning: SkeletalMesh Rifle has no skeleton. This needs to fixed before an animation can be set
+[2024.05.25-19.13.34:824][143]LogAnimation: Warning: SkeletalMesh Rifle has no skeleton. This needs to fixed before an animation can be set
+[2024.05.25-19.13.34:841][144]LogAnimation: Warning: SkeletalMesh Rifle has no skeleton. This needs to fixed before an animation can be set
+[2024.05.25-19.13.34:874][145]LogAnimation: Warning: SkeletalMesh Rifle has no skeleton. This needs to fixed before an animation can be set
+[2024.05.25-19.13.34:912][146]LogAnimation: Warning: SkeletalMesh Rifle has no skeleton. This needs to fixed before an animation can be set
+[2024.05.25-19.13.34:945][147]LogAnimation: Warning: SkeletalMesh Rifle has no skeleton. This needs to fixed before an animation can be set
+[2024.05.25-19.13.34:981][148]LogAnimation: Warning: SkeletalMesh Rifle has no skeleton. This needs to fixed before an animation can be set
+[2024.05.25-19.13.35:012][149]LogAnimation: Warning: SkeletalMesh Rifle has no skeleton. This needs to fixed before an animation can be set
+[2024.05.25-19.13.35:047][150]LogAnimation: Warning: SkeletalMesh Rifle has no skeleton. This needs to fixed before an animation can be set
+[2024.05.25-19.13.35:078][151]LogAnimation: Warning: SkeletalMesh Rifle has no skeleton. This needs to fixed before an animation can be set
+[2024.05.25-19.13.35:117][152]LogAnimation: Warning: SkeletalMesh Rifle has no skeleton. This needs to fixed before an animation can be set
+[2024.05.25-19.13.35:149][153]LogAnimation: Warning: SkeletalMesh Rifle has no skeleton. This needs to fixed before an animation can be set
+[2024.05.25-19.13.35:184][154]LogAnimation: Warning: SkeletalMesh Rifle has no skeleton. This needs to fixed before an animation can be set
+[2024.05.25-19.13.35:215][155]LogAnimation: Warning: SkeletalMesh Rifle has no skeleton. This needs to fixed before an animation can be set
+[2024.05.25-19.13.35:306][156]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Weapons/Weapons/Rifle.Rifle
+[2024.05.25-19.13.36:571][156]LogSlate: Window 'Message' being destroyed
+[2024.05.25-19.13.36:575][156]Message dialog closed, result: No, title: Message, text: This mesh currently has no valid Skeleton. Would you like to create a new Skeleton?
+[2024.05.25-19.13.36:653][156]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2024.05.25-19.13.45:573][156]LogSlate: Window 'Choose Skeleton' being destroyed
+[2024.05.25-19.13.45:628][156]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.25-19.13.52:542][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapons/Weapons/Rifle" FILE="C:/Users/Paulina/OneDrive/Pulpit/TopDownPaulinaSa-ek/TopDown/Content/Weapons/Weapons/Rifle.uasset" SILENT=true
+[2024.05.25-19.13.52:592][446]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/TopDownPaulinaSa-ek/TopDown/Saved/Rifle7AB15F1D4C718AC7EB587688C99F395A.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/TopDownPaulinaSa-ek/TopDown/Content/Weapons/Weapons/Rifle.uasset'
+[2024.05.25-19.13.52:610][446]AssetCheck: New page: Asset Save: Rifle
+[2024.05.25-19.13.52:610][446]LogContentValidation: Display: Validating SkeletalMesh /Game/Weapons/Weapons/Rifle.Rifle
+[2024.05.25-19.16.21:069][978]LogSlate: Window 'Material Baking Options' being destroyed
+[2024.05.25-19.16.21:174][978]LogMaterial: Display: Missing cached shadermap for FExportMaterialRenderer WorldGridMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: F0DE0E2D3F05F8DC691F08C9435C421F761E8A4A), compiling. Is special engine material.
+[2024.05.25-19.16.21:257][978]LogShaderCompilers: Display: Submitted 55 shader compile jobs with 'Low' priority
+[2024.05.25-19.16.21:260][978]LogMaterial: Display: Missing cached shadermap for FExportMaterialRenderer MagGun_MatA in PCD3D_SM5, Default, SM5 (DDC key hash: A18BD8FE08F36EA32CDC685E4BC64E2D10A61A98), compiling. 
+[2024.05.25-19.16.21:367][978]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 55
+[2024.05.25-19.16.21:367][978]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 48
+[2024.05.25-19.16.21:367][978]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 41
+[2024.05.25-19.16.21:367][978]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 34
+[2024.05.25-19.16.21:367][978]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 27
+[2024.05.25-19.16.21:367][978]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 20
+[2024.05.25-19.16.21:367][978]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2024.05.25-19.16.21:367][978]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2024.05.25-19.16.21:367][978]LogShaderCompilers: Display: Started 55 'Local' shader compile jobs with 'Low' priority
+[2024.05.25-19.16.26:813][978]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.25-19.16.26:813][978]LogShaderCompilers: Display: Total job queries 1649, among them cache hits 1165 (70.65%)
+[2024.05.25-19.16.26:813][978]LogShaderCompilers: Display: Tracking 464 distinct input hashes that result in 209 distinct outputs (45.04%)
+[2024.05.25-19.16.26:813][978]LogShaderCompilers: Display: RAM used: 1.14 MB (0.00 GB) of 716.80 MB (0.70 GB) budget. Usage: 0.16%
+[2024.05.25-19.16.26:813][978]LogShaderCompilers: Display: ================================================
+[2024.05.25-19.16.26:907][978]LogTexture: Display: Building textures: T_M_Rifle_WorldGridMaterial_8B9386FB49E868213472158E650853FF_BaseColor (BGRA8, 128X128)
+[2024.05.25-19.16.26:914][978]LogMaterial: Display: Missing cached shadermap for M_M_Rifle_WorldGridMaterial_8B9386FB49E868213472158E650853FF in PCD3D_SM5, Default, SM5 (DDC key hash: 155C47E3876208702C7BAF205E4FD4E2B5167066), compiling. 
+[2024.05.25-19.16.26:973][980]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.05.25-19.16.26:973][980]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2024.05.25-19.16.26:973][980]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2024.05.25-19.16.26:973][980]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.05.25-19.16.27:061][981]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 79
+[2024.05.25-19.16.27:061][981]LogShaderCompilers: Display: Submitted 136 shader compile jobs with 'Normal' priority
+[2024.05.25-19.16.27:061][981]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 126
+[2024.05.25-19.16.27:061][981]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 116
+[2024.05.25-19.16.27:061][981]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 106
+[2024.05.25-19.16.27:061][981]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 96
+[2024.05.25-19.16.27:061][981]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 86
+[2024.05.25-19.16.27:061][981]LogShaderCompilers: Display: Started 60 'Local' shader compile jobs with 'Normal' priority
+[2024.05.25-19.16.27:845][997]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2024.05.25-19.16.27:845][997]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.05.25-19.16.28:251][  6]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2024.05.25-19.16.28:251][  6]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.05.25-19.16.28:753][ 14]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 74
+[2024.05.25-19.16.28:753][ 14]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2024.05.25-19.16.28:878][ 16]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 64
+[2024.05.25-19.16.28:878][ 16]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2024.05.25-19.16.32:343][ 63]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 55
+[2024.05.25-19.16.32:343][ 63]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2024.05.25-19.16.32:863][ 69]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 48
+[2024.05.25-19.16.32:863][ 69]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2024.05.25-19.16.33:483][ 76]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 41
+[2024.05.25-19.16.33:483][ 76]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2024.05.25-19.16.35:155][100]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 35
+[2024.05.25-19.16.35:155][100]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2024.05.25-19.16.35:348][101]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 30
+[2024.05.25-19.16.35:348][101]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2024.05.25-19.16.36:436][123]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 26
+[2024.05.25-19.16.36:436][123]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2024.05.25-19.16.36:912][133]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 22
+[2024.05.25-19.16.36:912][133]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2024.05.25-19.16.37:612][147]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 19
+[2024.05.25-19.16.37:612][147]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2024.05.25-19.16.37:720][149]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2024.05.25-19.16.37:720][149]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2024.05.25-19.16.37:797][151]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2024.05.25-19.16.37:797][151]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2024.05.25-19.16.38:399][160]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2024.05.25-19.16.38:399][160]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2024.05.25-19.16.38:624][165]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2024.05.25-19.16.38:624][165]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2024.05.25-19.16.39:123][173]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2024.05.25-19.16.39:123][173]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.05.25-19.16.39:204][174]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2024.05.25-19.16.39:204][174]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.05.25-19.16.39:335][175]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2024.05.25-19.16.39:335][175]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.05.25-19.16.39:376][175]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2024.05.25-19.16.39:376][175]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.05.25-19.16.39:382][175]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2024.05.25-19.16.39:382][175]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.05.25-19.16.39:445][176]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2024.05.25-19.16.39:445][176]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.05.25-19.16.39:499][177]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2024.05.25-19.16.39:499][177]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.05.25-19.17.46:445][260]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Weapons/Weapons/M_Rifle_WorldGridMaterial_8B9386FB49E868213472158E650853FF.M_M_Rifle_WorldGridMaterial_8B9386FB49E868213472158E650853FF
+[2024.05.25-19.17.58:678][718]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2024.05.25-19.17.58:759][718]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.05.25-19.17.58:773][718]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.05.25-19.17.58:773][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.25-19.18.04:055][809]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_BoltMetal': Can't find file.
+[2024.05.25-19.18.04:057][809]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_BoltMetal': Can't find file.
+[2024.05.25-19.18.04:057][809]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_Metal_Copper': Can't find file.
+[2024.05.25-19.18.04:057][809]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_Metal_Copper': Can't find file.
+[2024.05.25-19.18.04:057][809]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_Metal_Gray': Can't find file.
+[2024.05.25-19.18.04:057][809]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_Metal_Gray': Can't find file.
+[2024.05.25-19.18.04:058][809]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_Paint': Can't find file.
+[2024.05.25-19.18.04:058][809]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_Paint': Can't find file.
+[2024.05.25-19.18.04:058][809]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_Rubber': Can't find file.
+[2024.05.25-19.18.04:058][809]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_Rubber': Can't find file.
+[2024.05.25-19.18.04:058][809]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_BoltMetal': Can't find file.
+[2024.05.25-19.18.04:059][809]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_Metal_Copper': Can't find file.
+[2024.05.25-19.18.04:059][809]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_Metal_Gray': Can't find file.
+[2024.05.25-19.18.04:059][809]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_Paint': Can't find file.
+[2024.05.25-19.18.04:059][809]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_Rubber': Can't find file.
+[2024.05.25-19.18.04:059][809]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB.uasset: Failed to load '/Game/Weapons/Textures/MagGun_02_N': Can't find file.
+[2024.05.25-19.18.04:059][809]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB.uasset: Failed to load '/Game/Weapons/Textures/MagGun_02_N': Can't find file.
+[2024.05.25-19.18.04:060][809]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB.uasset: Failed to load '/Game/Weapons/Textures/MagGun_Decals': Can't find file.
+[2024.05.25-19.18.04:060][809]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB.uasset: Failed to load '/Game/Weapons/Textures/MagGun_Decals': Can't find file.
+[2024.05.25-19.18.04:060][809]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB.uasset: Failed to load '/Game/Weapons/Textures/MagGun_Display_EM': Can't find file.
+[2024.05.25-19.18.04:060][809]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB.uasset: Failed to load '/Game/Weapons/Textures/MagGun_Display_EM': Can't find file.
+[2024.05.25-19.18.04:060][809]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB.uasset: Failed to load '/Game/Weapons/Textures/MagGunT2_section': Can't find file.
+[2024.05.25-19.18.04:060][809]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB.uasset: Failed to load '/Game/Weapons/Textures/MagGunT2_section': Can't find file.
+[2024.05.25-19.18.04:061][809]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB.uasset: Failed to load '/Game/Weapons/Textures/MagGunT2_shade': Can't find file.
+[2024.05.25-19.18.04:061][809]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB.uasset: Failed to load '/Game/Weapons/Textures/MagGunT2_shade': Can't find file.
+[2024.05.25-19.18.04:061][809]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB.uasset: Failed to load '/Game/Weapons/Textures/MagGun_02_N': Can't find file.
+[2024.05.25-19.18.04:061][809]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB.uasset: Failed to load '/Game/Weapons/Textures/MagGun_Decals': Can't find file.
+[2024.05.25-19.18.04:061][809]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB.uasset: Failed to load '/Game/Weapons/Textures/MagGun_Display_EM': Can't find file.
+[2024.05.25-19.18.04:061][809]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB.uasset: Failed to load '/Game/Weapons/Textures/MagGunT2_section': Can't find file.
+[2024.05.25-19.18.04:061][809]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB.uasset: Failed to load '/Game/Weapons/Textures/MagGunT2_shade': Can't find file.
+[2024.05.25-19.18.04:063][809]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_Metal_Gray': Can't find file.
+[2024.05.25-19.18.04:063][809]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_Rubber': Can't find file.
+[2024.05.25-19.18.04:063][809]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_Paint': Can't find file.
+[2024.05.25-19.18.04:064][809]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_BoltMetal': Can't find file.
+[2024.05.25-19.18.04:064][809]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_Metal_Copper': Can't find file.
+[2024.05.25-19.18.04:064][809]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB.uasset: Failed to load '/Game/Weapons/Textures/MagGun_Decals': Can't find file.
+[2024.05.25-19.18.04:064][809]LoadErrors: Failed to load /Game/Weapons/Textures/MagGun_Decals.MagGun_Decals Referenced by MaterialExpressionTextureObject_0
+[2024.05.25-19.18.04:064][809]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB.uasset: Failed to load '/Game/Weapons/Textures/MagGunT2_section': Can't find file.
+[2024.05.25-19.18.04:065][809]LoadErrors: Failed to load /Game/Weapons/Textures/MagGunT2_section.MagGunT2_section Referenced by MaterialExpressionTextureSample_0
+[2024.05.25-19.18.04:065][809]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB.uasset: Failed to load '/Game/Weapons/Textures/MagGun_02_N': Can't find file.
+[2024.05.25-19.18.04:065][809]LoadErrors: Failed to load /Game/Weapons/Textures/MagGun_02_N.MagGun_02_N Referenced by MaterialExpressionTextureSample_10
+[2024.05.25-19.18.04:065][809]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB.uasset: Failed to load '/Game/Weapons/Textures/MagGunT2_shade': Can't find file.
+[2024.05.25-19.18.04:065][809]LoadErrors: Failed to load /Game/Weapons/Textures/MagGunT2_shade.MagGunT2_shade Referenced by MaterialExpressionTextureSample_5
+[2024.05.25-19.18.04:065][809]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB.uasset: Failed to load '/Game/Weapons/Textures/MagGun_Display_EM': Can't find file.
+[2024.05.25-19.18.04:065][809]LoadErrors: Failed to load /Game/Weapons/Textures/MagGun_Display_EM.MagGun_Display_EM Referenced by MaterialExpressionTextureSampleParameter2D_4
+[2024.05.25-19.18.04:069][809]LogMaterial: Display: Missing cached shadermap for MagGun_MatB in PCD3D_SM5, Default, SM5 (DDC key hash: 2206BDBDE90623ACF005DE110930BF8BF4080E97), compiling. 
+[2024.05.25-19.18.04:072][809]LogMaterial: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.05.25-19.18.04:072][809]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.05.25-19.18.04:072][809]LogMaterial: Display: 	Missing Material Function
+[2024.05.25-19.18.04:072][809]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Normal
+[2024.05.25-19.18.04:072][809]LogMaterial: Display: 	(Node TextureObject) Texture Object> Requires valid texture
+[2024.05.25-19.18.04:072][809]LogMaterial: Display: 	Function MatLayerBlend_Decal: (Node MakeMaterialAttributes) Error on property Normal
+[2024.05.25-19.18.04:072][809]LogMaterial: Display: 	Function MatLayerBlend_BakedNormal: (Node MakeMaterialAttributes) Error on property Normal
+[2024.05.25-19.18.04:072][809]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2024.05.25-19.18.04:072][809]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2024.05.25-19.18.04:072][809]LogMaterial: Display: 	Function MatLayerBlend_Emissive: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2024.05.25-19.18.04:072][809]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property BaseColor
+[2024.05.25-19.18.04:072][809]LogMaterial: Display: 	Function MatLayerBlend_Decal: (Node MakeMaterialAttributes) Error on property BaseColor
+[2024.05.25-19.18.04:072][809]LogMaterial: Display: 	Function MatLayerBlend_TintAllChannels: (Node MakeMaterialAttributes) Error on property BaseColor
+[2024.05.25-19.18.04:072][809]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Metallic
+[2024.05.25-19.18.04:072][809]LogMaterial: Display: 	Function MatLayerBlend_Decal: (Node MakeMaterialAttributes) Error on property Metallic
+[2024.05.25-19.18.04:072][809]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Specular
+[2024.05.25-19.18.04:072][809]LogMaterial: Display: 	Function MatLayerBlend_TintAllChannels: (Node MakeMaterialAttributes) Error on property Specular
+[2024.05.25-19.18.04:072][809]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Roughness
+[2024.05.25-19.18.04:072][809]LogMaterial: Display: 	Function MatLayerBlend_RoughnessOverride: (Node MakeMaterialAttributes) Error on property Roughness
+[2024.05.25-19.18.04:072][809]LogMaterial: Display: 	Function MatLayerBlend_Decal: (Node MakeMaterialAttributes) Error on property Roughness
+[2024.05.25-19.18.04:072][809]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property AmbientOcclusion
+[2024.05.25-19.18.04:072][809]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property PixelDepthOffset
+[2024.05.25-19.18.10:564][942]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB_Inst3.uasset: Failed to load '/Game/Weapons/Materials/MagGun_MatB': Can't find file.
+[2024.05.25-19.18.10:564][942]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB_Inst3.uasset: Failed to load '/Game/Weapons/Materials/MagGun_MatB': Can't find file.
+[2024.05.25-19.18.10:565][942]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB_Inst3.uasset: Failed to load '/Game/Weapons/Materials/MagGun_MatB': Can't find file.
+[2024.05.25-19.18.10:565][942]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB_Inst3.uasset: Failed to load '/Game/Weapons/Materials/MagGun_MatB': Can't find file.
+[2024.05.25-19.18.10:566][942]LoadErrors: Failed to load /Game/Weapons/Materials/MagGun_MatB.MagGun_MatB Referenced by MagGun_MatB_Inst3
+[2024.05.25-19.18.34:600][816]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.05.25-19.18.34:600][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.25-19.18.44:059][120]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2024.05.25-19.18.45:205][120]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.25-19.18.45:301][120]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2024.05.25-19.18.46:174][135]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Weapons/Weapons/Rifle.Rifle
+[2024.05.25-19.18.46:177][135]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.25-19.19.08:640][811]LogUObjectGlobals: Warning: Failed to find object 'Class None.ControlRigBlueprint'
+[2024.05.25-19.19.13:770][ 36]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.05.25-19.19.13:770][ 36]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Weapons/Weapons/Rifle_Skeleton.Rifle_Skeleton
+[2024.05.25-19.19.13:836][ 36]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.25-19.20.03:327][584]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2024.05.25-19.20.03:340][584]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Main' took 0.046
+[2024.05.25-19.20.03:341][584]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Weapons/Weapons/Rifle] ([1] browsable assets)...
+[2024.05.25-19.20.03:361][584]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Weapons/Weapons/Rifle.Rifle]
+[2024.05.25-19.20.03:361][584]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapons/Weapons/Rifle]
+[2024.05.25-19.20.03:382][584]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/TopDownPaulinaSa-ek/TopDown/Saved/Rifle_Auto4D6600DE8495D3E8CC433579E1399CE41.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/TopDownPaulinaSa-ek/TopDown/Saved/Autosaves/Game/Weapons/Weapons/Rifle_Auto4.uasset'
+[2024.05.25-19.20.03:383][584]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Weapons/Weapons/M_Rifle_MagGun_MatA_8B9386FB49E868213472158E650853FF] ([1] browsable assets)...
+[2024.05.25-19.20.03:401][584]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Weapons/Weapons/M_Rifle_MagGun_MatA_8B9386FB49E868213472158E650853FF.M_M_Rifle_MagGun_MatA_8B9386FB49E868213472158E650853FF]
+[2024.05.25-19.20.03:401][584]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapons/Weapons/M_Rifle_MagGun_MatA_8B9386FB49E868213472158E650853FF]
+[2024.05.25-19.20.03:405][584]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/TopDownPaulinaSa-ek/TopDown/Saved/M_Rifle_MagGun_MatA_8B9386FB49E8B77C585C42FFBF11A629938A8FC4D21F.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/TopDownPaulinaSa-ek/TopDown/Saved/Autosaves/Game/Weapons/Weapons/M_Rifle_MagGun_MatA_8B9386FB49E868213472158E650853FF_Auto4.uasset'
+[2024.05.25-19.20.03:406][584]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Weapons/Weapons/M_Rifle_WorldGridMaterial_8B9386FB49E868213472158E650853FF] ([2] browsable assets)...
+[2024.05.25-19.20.03:423][584]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Weapons/Weapons/M_Rifle_WorldGridMaterial_8B9386FB49E868213472158E650853FF.M_M_Rifle_WorldGridMaterial_8B9386FB49E868213472158E650853FF]
+[2024.05.25-19.20.03:425][584]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Weapons/Weapons/M_Rifle_WorldGridMaterial_8B9386FB49E868213472158E650853FF.T_M_Rifle_WorldGridMaterial_8B9386FB49E868213472158E650853FF_BaseColor]
+[2024.05.25-19.20.03:425][584]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapons/Weapons/M_Rifle_WorldGridMaterial_8B9386FB49E868213472158E650853FF]
+[2024.05.25-19.20.03:426][584]LogTexture: Display: Building textures: T_M_Rifle_WorldGridMaterial_8B9386FB49E868213472158E650853FF_BaseColor (OODLE_DXT1, 128X128)
+[2024.05.25-19.20.03:433][584]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/TopDownPaulinaSa-ek/TopDown/Saved/M_Rifle_WorldGridMaterial_8B9386EFF7491A4A7528A47A2E84B0BDCF24FE.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/TopDownPaulinaSa-ek/TopDown/Saved/Autosaves/Game/Weapons/Weapons/M_Rifle_WorldGridMaterial_8B9386FB49E868213472158E650853FF_Auto4.uasset'
+[2024.05.25-19.20.03:435][584]LogFileHelpers: Auto-saving content packages took 0.095
