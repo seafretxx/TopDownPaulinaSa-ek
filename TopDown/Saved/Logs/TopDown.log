@@ -1641,3 +1641,879 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.11.26-22.25.06:597][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI/WB_PlayerHUD]
 [2024.11.26-22.25.06:608][110]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/WB_PlayerHUD_Auto396C571B24A0A400F5C2A6ABE90E91B01.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/Autosaves/Game/UI/UI/WB_PlayerHUD_Auto3.uasset'
 [2024.11.26-22.25.06:609][110]LogFileHelpers: Auto-saving content packages took 0.013
+[2024.11.26-22.27.04:722][192]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.11.26-22.27.04:734][192]LogContentBrowser: Deferred new asset file creation: NewBlueprint1
+[2024.11.26-22.27.04:746][192]LogContentBrowser: Creating deferred item: NewBlueprint1
+[2024.11.26-22.27.15:903][861]LogContentBrowser: Attempting asset rename: NewBlueprint1 -> BP_Enemy
+[2024.11.26-22.27.15:941][861]LogContentBrowser: End creating deferred item NewBlueprint1
+[2024.11.26-22.28.00:063][146]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Enemy.BP_Enemy
+[2024.11.26-22.28.00:409][147]LogRenderer: Reallocating scene render targets to support 1044x568 Format 10 NumSamples 1 (Frame:1).
+[2024.11.26-22.28.18:950][889]BlueprintLog: New page: Compile BP_Enemy
+[2024.11.26-22.28.19:005][889]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2024.11.26-22.28.19:714][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemy" FILE="C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/BP_Enemy.uasset" SILENT=true
+[2024.11.26-22.28.19:725][928]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/BP_Enemy7BF438CA4B59C6104AC948A7CB40F012.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/BP_Enemy.uasset'
+[2024.11.26-22.28.19:738][928]AssetCheck: New page: Asset Save: BP_Enemy
+[2024.11.26-22.28.19:738][928]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Enemy.BP_Enemy
+[2024.11.26-22.29.07:867][417]BlueprintLog: New page: Compile BP_Enemy
+[2024.11.26-22.29.07:921][417]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2024.11.26-22.29.08:618][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemy" FILE="C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/BP_Enemy.uasset" SILENT=true
+[2024.11.26-22.29.08:625][456]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/BP_EnemyCA9C55F44E8E08F24D6B059A4DF91D7E.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/BP_Enemy.uasset'
+[2024.11.26-22.29.08:642][456]AssetCheck: New page: Asset Save: BP_Enemy
+[2024.11.26-22.29.08:642][456]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Enemy.BP_Enemy
+[2024.11.26-22.29.22:035][221]LogTemp: Repeating last play command: Selected Viewport
+[2024.11.26-22.29.22:044][221]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.26-22.29.22:044][221]PIE: New page: PIE session: Main (27 lis 2024, 00:29:22)
+[2024.11.26-22.29.22:044][221]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.11.26-22.29.22:059][221]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015678s)
+[2024.11.26-22.29.22:060][221]LogAIModule: Creating AISystem for world Main
+[2024.11.26-22.29.22:060][221]LogPlayLevel: PIE: World Init took: (0.001219s)
+[2024.11.26-22.29.22:060][221]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.017047s)
+[2024.11.26-22.29.22:087][221]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2024.11.26-22.29.22:089][221]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.11.26-22.29.22:089][221]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.26-22.29.22:089][221]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.26-22.29.22:089][221]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.26-22.29.22:089][221]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.26-22.29.22:089][221]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.26-22.29.22:089][221]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.26-22.29.22:089][221]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.26-22.29.22:089][221]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.26-22.29.22:089][221]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.26-22.29.22:089][221]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.26-22.29.22:089][221]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.26-22.29.22:089][221]LogAudioMixer: Display: Initializing audio mixer.
+[2024.11.26-22.29.22:095][221]LogAudioMixer: Display: 0: FrontLeft
+[2024.11.26-22.29.22:095][221]LogAudioMixer: Display: 1: FrontRight
+[2024.11.26-22.29.22:128][221]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2024.11.26-22.29.22:128][221]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.26-22.29.22:128][221]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.26-22.29.22:128][221]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.26-22.29.22:128][221]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.11.26-22.29.22:128][221]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.11.26-22.29.22:128][221]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.11.26-22.29.22:131][221]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.11.26-22.29.22:131][221]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.11.26-22.29.22:131][221]LogInit: FAudioDevice initialized.
+[2024.11.26-22.29.22:131][221]LogAudio: Display: Audio Device (ID: 6) registered with world 'Main'.
+[2024.11.26-22.29.22:139][221]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2024.11.26-22.29.22:142][221]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Main.Main:PersistentLevel.Cylinder15_89.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=24.935 Y=24.627 Z=0.000
+[2024.11.26-22.29.22:142][221]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2024.11.26-22.29.22:142][221]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2024.11.26-22.29.22:144][221]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.11.26-23.29.22
+[2024.11.26-22.29.22:175][221]LogWorld: Bringing up level for play took: 0.034821
+[2024.11.26-22.29.22:175][221]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2024.11.26-22.29.22:180][221]PIE: Server logged in
+[2024.11.26-22.29.22:181][221]PIE: Play in editor total start time 0,142 seconds.
+[2024.11.26-22.29.23:880][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.26-22.29.23:881][320]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.11.26-22.29.23:881][320]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.11.26-22.29.23:882][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.26-22.29.23:893][320]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.26-22.29.23:928][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.26-22.29.23:952][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.26-22.29.23:953][320]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.11.26-22.29.23:954][320]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.11.26-22.29.23:960][320]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2024.11.26-22.29.23:988][321]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.11.26-22.29.49:635][807]LogEditorTransaction: Undo Modify Component Scale
+[2024.11.26-22.29.49:923][815]LogEditorTransaction: Undo Modify Component Scale
+[2024.11.26-22.29.56:649][186]BlueprintLog: New page: Compile BP_Enemy
+[2024.11.26-22.29.56:791][186]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2024.11.26-22.30.54:934][414]BlueprintLog: New page: Compile BP_Enemy
+[2024.11.26-22.30.55:043][414]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2024.11.26-22.30.55:495][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemy" FILE="C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/BP_Enemy.uasset" SILENT=true
+[2024.11.26-22.30.55:503][437]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/BP_Enemy8FB468424891729689C030B773D3BC0F.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/BP_Enemy.uasset'
+[2024.11.26-22.30.55:523][437]AssetCheck: New page: Asset Save: BP_Enemy
+[2024.11.26-22.30.55:523][437]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Enemy.BP_Enemy
+[2024.11.26-22.31.32:995][942]BlueprintLog: New page: Compile BP_Enemy
+[2024.11.26-22.31.33:094][942]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2024.11.26-22.31.33:587][967]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemy" FILE="C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/BP_Enemy.uasset" SILENT=true
+[2024.11.26-22.31.33:594][967]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/BP_Enemy23EA2EFA4EB6C56F2253E5BC557AB229.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/BP_Enemy.uasset'
+[2024.11.26-22.31.33:611][967]AssetCheck: New page: Asset Save: BP_Enemy
+[2024.11.26-22.31.33:611][967]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Enemy.BP_Enemy
+[2024.11.26-22.31.51:094][475]BlueprintLog: New page: Compile BP_Enemy
+[2024.11.26-22.31.51:189][475]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2024.11.26-22.31.51:785][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemy" FILE="C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/BP_Enemy.uasset" SILENT=true
+[2024.11.26-22.31.51:792][506]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/BP_EnemyE267536B484EC36FAE8F00BB4FD86E67.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/BP_Enemy.uasset'
+[2024.11.26-22.31.51:809][506]AssetCheck: New page: Asset Save: BP_Enemy
+[2024.11.26-22.31.51:809][506]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Enemy.BP_Enemy
+[2024.11.26-22.34.40:997][410]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2024.11.26-22.36.25:296][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2024.11.26-22.36.25:477][ 55]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/Main_Auto42F720AD44C3374D4E73750B08D8B54DF.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/Autosaves/Game/Maps/Main_Auto4.umap'
+[2024.11.26-22.36.25:481][ 55]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Main' took 0.213
+[2024.11.26-22.36.25:481][ 55]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.213
+[2024.11.26-22.38.54:413][763]LogTemp: Repeating last play command: Selected Viewport
+[2024.11.26-22.38.54:421][763]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.26-22.38.54:421][763]PIE: New page: PIE session: Main (27 lis 2024, 00:38:54)
+[2024.11.26-22.38.54:421][763]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.11.26-22.38.54:481][763]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059393s)
+[2024.11.26-22.38.54:482][763]LogAIModule: Creating AISystem for world Main
+[2024.11.26-22.38.54:482][763]LogPlayLevel: PIE: World Init took: (0.001304s)
+[2024.11.26-22.38.54:482][763]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.060856s)
+[2024.11.26-22.38.54:510][763]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2024.11.26-22.38.54:528][763]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.11.26-22.38.54:528][763]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.26-22.38.54:528][763]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.26-22.38.54:528][763]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.26-22.38.54:528][763]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.26-22.38.54:528][763]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.26-22.38.54:528][763]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.26-22.38.54:528][763]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.26-22.38.54:528][763]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.26-22.38.54:528][763]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.26-22.38.54:528][763]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.26-22.38.54:528][763]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.26-22.38.54:528][763]LogAudioMixer: Display: Initializing audio mixer.
+[2024.11.26-22.38.54:534][763]LogAudioMixer: Display: 0: FrontLeft
+[2024.11.26-22.38.54:534][763]LogAudioMixer: Display: 1: FrontRight
+[2024.11.26-22.38.54:579][763]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2024.11.26-22.38.54:580][763]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.26-22.38.54:580][763]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.26-22.38.54:580][763]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.26-22.38.54:581][763]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.11.26-22.38.54:581][763]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.11.26-22.38.54:581][763]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.11.26-22.38.54:582][763]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.11.26-22.38.54:582][763]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.11.26-22.38.54:582][763]LogInit: FAudioDevice initialized.
+[2024.11.26-22.38.54:582][763]LogAudio: Display: Audio Device (ID: 7) registered with world 'Main'.
+[2024.11.26-22.38.54:593][763]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2024.11.26-22.38.54:597][763]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Main.Main:PersistentLevel.Cylinder15_89.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=24.935 Y=24.627 Z=0.000
+[2024.11.26-22.38.54:597][763]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2024.11.26-22.38.54:597][763]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2024.11.26-22.38.54:600][763]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.11.26-23.38.54
+[2024.11.26-22.38.54:600][763]LogWorld: Bringing up level for play took: 0.006615
+[2024.11.26-22.38.54:631][763]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2024.11.26-22.38.54:639][763]PIE: Server logged in
+[2024.11.26-22.38.54:641][763]PIE: Play in editor total start time 0,222 seconds.
+[2024.11.26-22.39.00:258][ 96]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.26-22.39.00:258][ 96]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.11.26-22.39.00:259][ 96]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.11.26-22.39.00:260][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.26-22.39.00:270][ 96]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.26-22.39.00:287][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.26-22.39.00:310][ 96]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.26-22.39.00:311][ 96]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.11.26-22.39.00:312][ 96]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.11.26-22.39.00:323][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2024.11.26-22.39.00:355][ 97]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.11.26-22.39.56:834][857]BlueprintLog: New page: Compile BP_Enemy
+[2024.11.26-22.39.56:881][857]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2024.11.26-22.39.57:375][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemy" FILE="C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/BP_Enemy.uasset" SILENT=true
+[2024.11.26-22.39.57:383][883]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/BP_EnemyD27D92C84E5A6BE08F3B99A92D751966.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/BP_Enemy.uasset'
+[2024.11.26-22.39.57:397][883]AssetCheck: New page: Asset Save: BP_Enemy
+[2024.11.26-22.39.57:397][883]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Enemy.BP_Enemy
+[2024.11.26-22.40.44:725][304]LogTemp: Repeating last play command: Selected Viewport
+[2024.11.26-22.40.44:733][304]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.26-22.40.44:733][304]PIE: New page: PIE session: Main (27 lis 2024, 00:40:44)
+[2024.11.26-22.40.44:733][304]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.11.26-22.40.44:781][304]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048306s)
+[2024.11.26-22.40.44:783][304]LogAIModule: Creating AISystem for world Main
+[2024.11.26-22.40.44:783][304]LogPlayLevel: PIE: World Init took: (0.001009s)
+[2024.11.26-22.40.44:783][304]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.049454s)
+[2024.11.26-22.40.44:808][304]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2024.11.26-22.40.44:809][304]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.11.26-22.40.44:809][304]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.26-22.40.44:809][304]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.26-22.40.44:809][304]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.26-22.40.44:809][304]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.26-22.40.44:810][304]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.26-22.40.44:810][304]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.26-22.40.44:810][304]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.26-22.40.44:810][304]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.26-22.40.44:810][304]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.26-22.40.44:810][304]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.26-22.40.44:810][304]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.26-22.40.44:810][304]LogAudioMixer: Display: Initializing audio mixer.
+[2024.11.26-22.40.44:814][304]LogAudioMixer: Display: 0: FrontLeft
+[2024.11.26-22.40.44:814][304]LogAudioMixer: Display: 1: FrontRight
+[2024.11.26-22.40.44:850][304]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2024.11.26-22.40.44:850][304]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.26-22.40.44:850][304]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.26-22.40.44:850][304]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.26-22.40.44:852][304]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.11.26-22.40.44:852][304]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.11.26-22.40.44:852][304]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.11.26-22.40.44:852][304]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.11.26-22.40.44:852][304]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.11.26-22.40.44:852][304]LogInit: FAudioDevice initialized.
+[2024.11.26-22.40.44:852][304]LogAudio: Display: Audio Device (ID: 8) registered with world 'Main'.
+[2024.11.26-22.40.44:860][304]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2024.11.26-22.40.44:863][304]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Main.Main:PersistentLevel.Cylinder15_89.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=24.935 Y=24.627 Z=0.000
+[2024.11.26-22.40.44:863][304]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2024.11.26-22.40.44:863][304]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2024.11.26-22.40.44:865][304]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.11.26-23.40.44
+[2024.11.26-22.40.44:866][304]LogWorld: Bringing up level for play took: 0.005240
+[2024.11.26-22.40.44:866][304]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2024.11.26-22.40.44:901][304]PIE: Server logged in
+[2024.11.26-22.40.44:902][304]PIE: Play in editor total start time 0,171 seconds.
+[2024.11.26-22.41.02:950][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.26-22.41.02:950][382]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.11.26-22.41.02:950][382]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.11.26-22.41.02:951][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.26-22.41.02:963][382]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.26-22.41.02:981][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.26-22.41.03:003][382]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.26-22.41.03:003][382]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.11.26-22.41.03:004][382]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.11.26-22.41.03:007][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.26-22.41.03:015][382]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2024.11.26-22.41.03:047][383]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.11.26-22.41.04:650][478]LogEditorViewport: Clicking on Actor (LMB): BP_Enemy_C (BP_Enemy)
+[2024.11.26-22.42.06:927][182]LogTemp: Repeating last play command: Selected Viewport
+[2024.11.26-22.42.06:933][182]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.26-22.42.06:933][182]PIE: New page: PIE session: Main (27 lis 2024, 00:42:06)
+[2024.11.26-22.42.06:933][182]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.11.26-22.42.06:983][182]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049150s)
+[2024.11.26-22.42.06:983][182]LogAIModule: Creating AISystem for world Main
+[2024.11.26-22.42.06:983][182]LogPlayLevel: PIE: World Init took: (0.001025s)
+[2024.11.26-22.42.06:983][182]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.050310s)
+[2024.11.26-22.42.07:010][182]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2024.11.26-22.42.07:011][182]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.11.26-22.42.07:011][182]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.26-22.42.07:011][182]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.26-22.42.07:011][182]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.26-22.42.07:011][182]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.26-22.42.07:011][182]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.26-22.42.07:011][182]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.26-22.42.07:011][182]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.26-22.42.07:011][182]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.26-22.42.07:011][182]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.26-22.42.07:011][182]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.26-22.42.07:011][182]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.26-22.42.07:012][182]LogAudioMixer: Display: Initializing audio mixer.
+[2024.11.26-22.42.07:016][182]LogAudioMixer: Display: 0: FrontLeft
+[2024.11.26-22.42.07:016][182]LogAudioMixer: Display: 1: FrontRight
+[2024.11.26-22.42.07:051][182]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2024.11.26-22.42.07:051][182]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.26-22.42.07:051][182]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.26-22.42.07:051][182]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.26-22.42.07:052][182]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.11.26-22.42.07:052][182]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.11.26-22.42.07:052][182]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.11.26-22.42.07:053][182]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.11.26-22.42.07:053][182]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.11.26-22.42.07:054][182]LogInit: FAudioDevice initialized.
+[2024.11.26-22.42.07:054][182]LogAudio: Display: Audio Device (ID: 9) registered with world 'Main'.
+[2024.11.26-22.42.07:061][182]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2024.11.26-22.42.07:063][182]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Main.Main:PersistentLevel.Cylinder15_89.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=24.935 Y=24.627 Z=0.000
+[2024.11.26-22.42.07:064][182]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2024.11.26-22.42.07:064][182]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2024.11.26-22.42.07:065][182]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.11.26-23.42.07
+[2024.11.26-22.42.07:067][182]LogWorld: Bringing up level for play took: 0.005353
+[2024.11.26-22.42.07:067][182]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2024.11.26-22.42.07:071][182]PIE: Server logged in
+[2024.11.26-22.42.07:072][182]PIE: Play in editor total start time 0,14 seconds.
+[2024.11.26-22.42.15:229][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.26-22.42.15:229][667]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.11.26-22.42.15:229][667]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.11.26-22.42.15:230][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.26-22.42.15:239][667]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.26-22.42.15:280][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.26-22.42.15:304][667]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.26-22.42.15:305][667]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.11.26-22.42.15:306][667]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.11.26-22.42.15:309][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.26-22.42.15:315][667]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2024.11.26-22.42.15:355][668]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2024.11.26-22.43.39:329][287]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.11.26-22.43.39:345][287]LogContentBrowser: Creating deferred item: NewFolder
+[2024.11.26-22.43.43:755][551]LogContentBrowser: Attempting asset rename: NewFolder -> BP_Enemy
+[2024.11.26-22.43.43:756][551]LogContentBrowser: End creating deferred item NewFolder
+[2024.11.26-22.43.47:109][735]LogMetaData: Removing '/Game/Blueprints/BP_Enemy/BP_Enemy.BP_Enemy:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_Enemy.PackageMetaData'
+[2024.11.26-22.43.47:109][735]LogMetaData: Removing '/Game/Blueprints/BP_Enemy/BP_Enemy.SKEL_BP_Enemy_C' ref from Metadata '/Game/Blueprints/BP_Enemy.PackageMetaData'
+[2024.11.26-22.43.47:109][735]LogMetaData: Removing '/Game/Blueprints/BP_Enemy/BP_Enemy.BP_Enemy_C' ref from Metadata '/Game/Blueprints/BP_Enemy.PackageMetaData'
+[2024.11.26-22.43.47:109][735]LogMetaData: Removing '/Game/Blueprints/BP_Enemy/BP_Enemy.BP_Enemy:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/BP_Enemy.PackageMetaData'
+[2024.11.26-22.43.47:109][735]LogMetaData: Removing '/Game/Blueprints/BP_Enemy/BP_Enemy.BP_Enemy:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/BP_Enemy.PackageMetaData'
+[2024.11.26-22.43.47:109][735]LogMetaData: Removing '/Game/Blueprints/BP_Enemy/BP_Enemy.BP_Enemy:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/BP_Enemy.PackageMetaData'
+[2024.11.26-22.43.47:109][735]LogMetaData: Removing '/Game/Blueprints/BP_Enemy/BP_Enemy.BP_Enemy_C:OnFail_B965C6FF4154EB1D89A1259A8E0F8F55' ref from Metadata '/Game/Blueprints/BP_Enemy.PackageMetaData'
+[2024.11.26-22.43.47:109][735]LogMetaData: Removing '/Game/Blueprints/BP_Enemy/BP_Enemy.BP_Enemy_C:OnSuccess_B965C6FF4154EB1D89A1259A8E0F8F55' ref from Metadata '/Game/Blueprints/BP_Enemy.PackageMetaData'
+[2024.11.26-22.43.47:109][735]LogMetaData: Removing '/Game/Blueprints/BP_Enemy/BP_Enemy.BP_Enemy_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/BP_Enemy.PackageMetaData'
+[2024.11.26-22.43.47:109][735]LogMetaData: Removing '/Game/Blueprints/BP_Enemy/BP_Enemy.SKEL_BP_Enemy_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BP_Enemy.PackageMetaData'
+[2024.11.26-22.43.47:109][735]LogMetaData: Removing '/Game/Blueprints/BP_Enemy/BP_Enemy.SKEL_BP_Enemy_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/BP_Enemy.PackageMetaData'
+[2024.11.26-22.43.47:183][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemy/BP_Enemy" FILE="C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/BP_Enemy/BP_Enemy.uasset" SILENT=true
+[2024.11.26-22.43.47:194][735]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/BP_EnemyCEB9F2594BCD78821E3FA88DEC2CC4CE.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/BP_Enemy/BP_Enemy.uasset'
+[2024.11.26-22.43.47:306][735]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2024.11.26-22.43.47:339][735]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2024.11.26-22.43.47:362][735]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.11.26-22.43.47:417][735]AssetCheck: New page: Asset Save: BP_Enemy
+[2024.11.26-22.43.47:417][735]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Enemy/BP_Enemy.BP_Enemy
+[2024.11.26-22.44.15:736][877]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.11.26-22.44.15:740][877]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.11.26-22.44.15:761][877]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2024.11.26-22.44.19:427][877]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2024.11.26-22.44.19:435][877]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2024.11.26-22.44.19:447][877]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2024.11.26-22.44.28:794][434]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> Anim_Enemy
+[2024.11.26-22.44.28:829][434]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2024.11.26-22.44.30:532][529]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy
+[2024.11.26-22.44.30:560][529]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2024.11.26-22.44.30:565][529]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2024.11.26-22.44.30:646][529]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2024.11.26-22.44.30:759][529]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.11.26-22.44.30:765][529]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0005 seconds. Added 1 classes and 0 folders.
+[2024.11.26-22.44.31:590][529]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2024.11.26-22.46.25:317][191]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Idle.ExoGame_Greater_Spider_Idle
+[2024.11.26-22.46.58:308][764]LogUObjectHash: Compacting FUObjectHashTables data took   5.98ms
+[2024.11.26-22.46.58:499][764]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/Main_Auto5DE69300548356159734AEA82E3C342F5.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/Autosaves/Game/Maps/Main_Auto5.umap'
+[2024.11.26-22.46.58:500][764]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Main' took 0.367
+[2024.11.26-22.46.58:500][764]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.367
+[2024.11.26-22.46.58:501][764]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/UI/WB_PlayerHUD] ([4] browsable assets)...
+[2024.11.26-22.46.58:501][764]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI/WB_PlayerHUD]
+[2024.11.26-22.46.58:510][764]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/WB_PlayerHUD_Auto51E1550024CA880F7671F6098C2BFBB00.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/Autosaves/Game/UI/UI/WB_PlayerHUD_Auto5.uasset'
+[2024.11.26-22.46.58:511][764]LogFileHelpers: Auto-saving content packages took 0.011
+[2024.11.26-22.47.21:193][  8]BlueprintLog: New page: Compile Anim_Enemy
+[2024.11.26-22.47.21:207][  8]LogBlueprint: Warning: [AssetLog] /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy (no disk path found): [Compiler] Idle to walk  will never be taken, please connect something to  Can Enter Transition
+[2024.11.26-22.47.21:207][  8]LogBlueprint: Warning: [AssetLog] /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy (no disk path found): [Compiler] walk to Idle  will never be taken, please connect something to  Can Enter Transition
+[2024.11.26-22.47.21:263][  8]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2024.11.26-22.47.21:429][ 12]BlueprintLog: New page: Compile Anim_Enemy
+[2024.11.26-22.47.21:443][ 12]LogBlueprint: Warning: [AssetLog] /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy (no disk path found): [Compiler] Idle to walk  will never be taken, please connect something to  Can Enter Transition
+[2024.11.26-22.47.21:443][ 12]LogBlueprint: Warning: [AssetLog] /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy (no disk path found): [Compiler] walk to Idle  will never be taken, please connect something to  Can Enter Transition
+[2024.11.26-22.47.21:492][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2024.11.26-22.49.13:471][825]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Walk_Fwd.ExoGame_Greater_Spider_Walk_Fwd
+[2024.11.26-22.49.32:217][ 79]BlueprintLog: New page: Compile Anim_Enemy
+[2024.11.26-22.49.32:220][ 79]LogBlueprint: Warning: [AssetLog] /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy (no disk path found): [Compiler] Idle to walk  will never be taken, please connect something to  Can Enter Transition
+[2024.11.26-22.49.32:220][ 79]LogBlueprint: Warning: [AssetLog] /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy (no disk path found): [Compiler] walk to Idle  will never be taken, please connect something to  Can Enter Transition
+[2024.11.26-22.49.32:270][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2024.11.26-22.49.32:782][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemy/Anim_Enemy" FILE="C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/BP_Enemy/Anim_Enemy.uasset" SILENT=true
+[2024.11.26-22.49.32:798][105]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/Anim_EnemyA6C8438649115743CAF346B083C8F97C.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/BP_Enemy/Anim_Enemy.uasset'
+[2024.11.26-22.49.32:843][105]AssetCheck: New page: Asset Save: Anim_Enemy
+[2024.11.26-22.49.32:843][105]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy
+[2024.11.26-22.51.18:053][170]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation
+[2024.11.26-22.51.18:058][170]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.11.26-22.51.18:059][170]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_0
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:0040
+[2024.11.26-22.51.18:059][170]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_0
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:00EA
+[2024.11.26-22.51.18:059][170]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_0
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:017A
+[2024.11.26-22.51.18:059][170]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_0
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:01AC
+[2024.11.26-22.51.18:516][170]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_0
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:0040
+[2024.11.26-22.51.18:516][170]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_0
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:00EA
+[2024.11.26-22.51.18:516][170]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_0
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:017A
+[2024.11.26-22.51.18:516][170]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_0
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:01AC
+[2024.11.26-22.51.18:554][170]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2024.11.26-22.51.18:562][171]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_0
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:0040
+[2024.11.26-22.51.18:562][171]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_0
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:00EA
+[2024.11.26-22.51.18:562][171]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_0
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:017A
+[2024.11.26-22.51.18:562][171]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_ChAnimation_C_0
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:01AC
+[2024.11.26-22.53.04:483][303]BlueprintLog: New page: Compile Anim_Enemy
+[2024.11.26-22.53.04:486][303]LogBlueprint: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Blueprints\BP_Enemy\Anim_Enemy.uasset: [Compiler] Idle to walk  will never be taken, please connect something to  Can Enter Transition
+[2024.11.26-22.53.04:486][303]LogBlueprint: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Blueprints\BP_Enemy\Anim_Enemy.uasset: [Compiler] walk to Idle  will never be taken, please connect something to  Can Enter Transition
+[2024.11.26-22.53.04:503][303]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_4
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.53.04:503][303]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Anim_Enemy_C_4
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.53.04:545][303]LogUObjectHash: Compacting FUObjectHashTables data took   6.02ms
+[2024.11.26-22.53.04:568][303]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_4
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.53.04:603][304]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_4
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.53.04:639][305]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_4
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.53.04:653][306]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_4
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.53.04:669][307]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_4
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.53.04:687][308]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_4
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.53.04:703][309]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_4
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.53.04:720][310]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_4
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.53.04:736][311]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_4
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.53.04:753][312]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_4
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.53.04:768][313]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_4
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.53.04:786][314]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_4
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.53.04:802][315]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_4
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.53.04:819][316]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_4
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.53.04:942][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemy/Anim_Enemy" FILE="C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/BP_Enemy/Anim_Enemy.uasset" SILENT=true
+[2024.11.26-22.53.04:956][321]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/Anim_Enemy732D304D4536E371A0EB4EBE313998FB.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/BP_Enemy/Anim_Enemy.uasset'
+[2024.11.26-22.53.04:974][321]AssetCheck: New page: Asset Save: Anim_Enemy
+[2024.11.26-22.53.04:974][321]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy
+[2024.11.26-22.53.13:248][809]BlueprintLog: New page: Compile Anim_Enemy
+[2024.11.26-22.53.13:251][809]LogBlueprint: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Blueprints\BP_Enemy\Anim_Enemy.uasset: [Compiler] walk to Idle  will never be taken, please connect something to  Can Enter Transition
+[2024.11.26-22.53.13:266][809]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Anim_Enemy_C_5
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.53.13:266][809]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_5
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.53.13:302][809]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2024.11.26-22.53.13:313][809]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_5
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.53.13:342][810]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_5
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.53.13:354][811]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_5
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.53.13:370][812]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_5
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.53.13:386][813]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_5
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.53.13:402][814]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_5
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.53.13:419][815]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_5
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.53.13:438][816]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_5
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.53.13:463][817]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_5
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.53.13:479][818]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_5
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.53.13:496][819]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_5
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.53.13:511][820]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_5
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.53.13:529][821]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_5
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.53.13:545][822]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_5
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.53.14:025][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemy/Anim_Enemy" FILE="C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/BP_Enemy/Anim_Enemy.uasset" SILENT=true
+[2024.11.26-22.53.14:038][848]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/Anim_Enemy1C52B6544E39B2092405BA81F5436011.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/BP_Enemy/Anim_Enemy.uasset'
+[2024.11.26-22.53.14:055][848]AssetCheck: New page: Asset Save: Anim_Enemy
+[2024.11.26-22.53.14:055][848]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy
+[2024.11.26-22.54.15:381][590]BlueprintLog: New page: Compile Anim_Enemy
+[2024.11.26-22.54.15:385][590]LogBlueprint: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Blueprints\BP_Enemy\Anim_Enemy.uasset: [Compiler] walk to Idle  will never be taken, please connect something to  Can Enter Transition
+[2024.11.26-22.54.15:402][590]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_6
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.54.15:402][590]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Anim_Enemy_C_6
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.54.15:439][590]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2024.11.26-22.54.15:448][590]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_6
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.54.15:475][591]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_6
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.54.15:492][592]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_6
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.54.15:514][593]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_6
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.54.15:531][594]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_6
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.54.15:549][595]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_6
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.54.15:566][596]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_6
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.54.15:582][597]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_6
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.54.15:615][598]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_6
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.54.15:634][599]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_6
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.54.15:648][600]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_6
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.54.15:664][601]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_6
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.54.15:683][602]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_6
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.54.15:714][603]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_6
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.54.33:513][634]BlueprintLog: New page: Compile Anim_Enemy
+[2024.11.26-22.54.33:532][634]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Anim_Enemy_C_7
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.54.33:532][634]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_7
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.54.33:570][634]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2024.11.26-22.54.33:584][634]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_7
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.54.33:610][635]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_7
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.54.33:632][636]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_7
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.54.33:648][637]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_7
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.54.33:664][638]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_7
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.54.33:681][639]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_7
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.54.33:697][640]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_7
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.54.33:714][641]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_7
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.54.33:731][642]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_7
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.54.33:747][643]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_7
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.54.33:764][644]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_7
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.54.33:780][645]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_7
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.54.33:799][646]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_7
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.54.33:814][647]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Anim_Enemy_C /Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Anim_Enemy_C_7
+	Function /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy_C:ExecuteUbergraph_Anim_Enemy:0040
+[2024.11.26-22.54.33:989][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemy/Anim_Enemy" FILE="C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/BP_Enemy/Anim_Enemy.uasset" SILENT=true
+[2024.11.26-22.54.34:004][655]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/Anim_Enemy4CFBDF3F42EF1E826D2A22A6DF4DC8AF.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/BP_Enemy/Anim_Enemy.uasset'
+[2024.11.26-22.54.34:018][655]AssetCheck: New page: Asset Save: Anim_Enemy
+[2024.11.26-22.54.34:018][655]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/BP_Enemy/Anim_Enemy.Anim_Enemy
+[2024.11.26-22.55.44:455][ 31]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.11.26-22.55.44:471][ 31]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.11.26-22.55.48:723][270]BlueprintLog: New page: Compile BP_Enemy
+[2024.11.26-22.55.48:850][270]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2024.11.26-22.55.49:203][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemy/BP_Enemy" FILE="C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/BP_Enemy/BP_Enemy.uasset" SILENT=true
+[2024.11.26-22.55.49:209][287]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/BP_Enemy0843A1294B5376F5459025A0029477C5.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/BP_Enemy/BP_Enemy.uasset'
+[2024.11.26-22.55.49:223][287]AssetCheck: New page: Asset Save: BP_Enemy
+[2024.11.26-22.55.49:224][287]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Enemy/BP_Enemy.BP_Enemy
+[2024.11.26-22.56.05:410][484]LogTemp: Repeating last play command: Selected Viewport
+[2024.11.26-22.56.05:416][484]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.11.26-22.56.05:423][484]LogPlayLevel: [PlayLevel] Compiling WB_PlayerHUD before play...
+[2024.11.26-22.56.05:497][484]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2024.11.26-22.56.05:498][484]LogPlayLevel: PlayLevel: Blueprint regeneration took 82 ms (1 blueprints)
+[2024.11.26-22.56.05:498][484]PIE: New page: PIE session: Main (27 lis 2024, 00:56:05)
+[2024.11.26-22.56.05:498][484]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.11.26-22.56.05:548][484]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049668s)
+[2024.11.26-22.56.05:549][484]LogAIModule: Creating AISystem for world Main
+[2024.11.26-22.56.05:549][484]LogPlayLevel: PIE: World Init took: (0.001003s)
+[2024.11.26-22.56.05:549][484]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.050824s)
+[2024.11.26-22.56.05:585][484]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2024.11.26-22.56.05:587][484]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.11.26-22.56.05:587][484]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.26-22.56.05:587][484]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.26-22.56.05:587][484]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.26-22.56.05:587][484]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.26-22.56.05:587][484]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.26-22.56.05:587][484]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.26-22.56.05:587][484]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.26-22.56.05:587][484]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.26-22.56.05:587][484]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.26-22.56.05:587][484]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.26-22.56.05:587][484]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.26-22.56.05:587][484]LogAudioMixer: Display: Initializing audio mixer.
+[2024.11.26-22.56.05:622][484]LogAudioMixer: Display: 0: FrontLeft
+[2024.11.26-22.56.05:622][484]LogAudioMixer: Display: 1: FrontRight
+[2024.11.26-22.56.05:659][484]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2024.11.26-22.56.05:659][484]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.26-22.56.05:659][484]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.26-22.56.05:659][484]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.26-22.56.05:661][484]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.11.26-22.56.05:661][484]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.11.26-22.56.05:661][484]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.11.26-22.56.05:662][484]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.11.26-22.56.05:662][484]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.11.26-22.56.05:662][484]LogInit: FAudioDevice initialized.
+[2024.11.26-22.56.05:662][484]LogAudio: Display: Audio Device (ID: 10) registered with world 'Main'.
+[2024.11.26-22.56.05:670][484]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2024.11.26-22.56.05:673][484]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Main.Main:PersistentLevel.Cylinder15_89.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=24.935 Y=24.627 Z=0.000
+[2024.11.26-22.56.05:673][484]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2024.11.26-22.56.05:673][484]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2024.11.26-22.56.05:676][484]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.11.26-23.56.05
+[2024.11.26-22.56.05:676][484]LogWorld: Bringing up level for play took: 0.005931
+[2024.11.26-22.56.05:678][484]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2024.11.26-22.56.05:683][484]PIE: Server logged in
+[2024.11.26-22.56.05:684][484]PIE: Play in editor total start time 0,27 seconds.
+[2024.11.26-22.56.18:898][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.26-22.56.18:898][267]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.11.26-22.56.18:899][267]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.11.26-22.56.18:900][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.26-22.56.18:909][267]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.26-22.56.18:942][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.26-22.56.18:973][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.26-22.56.18:973][267]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.11.26-22.56.18:975][267]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.11.26-22.56.18:986][267]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2024.11.26-22.56.19:025][268]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2024.11.26-22.57.12:347][854]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2024.11.26-22.57.12:542][854]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/Main_Auto68E148239434BEF8CDBE3C295D6DA486C.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/Autosaves/Game/Maps/Main_Auto6.umap'
+[2024.11.26-22.57.12:543][854]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Main' took 0.245
+[2024.11.26-22.57.12:544][854]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.245
+[2024.11.26-22.57.12:544][854]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Enemy/BP_Enemy] ([2] browsable assets)...
+[2024.11.26-22.57.12:544][854]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Enemy/BP_Enemy]
+[2024.11.26-22.57.12:548][854]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/BP_Enemy_Auto672DC3972402741D01E5DAD8C6889F319.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/Autosaves/Game/Blueprints/BP_Enemy/BP_Enemy_Auto6.uasset'
+[2024.11.26-22.57.12:549][854]LogFileHelpers: Auto-saving content packages took 0.006
+[2024.11.26-22.59.19:537][218]BlueprintLog: New page: Compile BP_Enemy
+[2024.11.26-22.59.19:646][218]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2024.11.26-23.00.29:202][ 51]BlueprintLog: New page: Compile BP_Enemy
+[2024.11.26-23.00.29:341][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2024.11.26-23.00.29:712][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemy/BP_Enemy" FILE="C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/BP_Enemy/BP_Enemy.uasset" SILENT=true
+[2024.11.26-23.00.29:723][ 69]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/BP_Enemy0D4675A24A530B040B59FF9ACE8EFA53.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/BP_Enemy/BP_Enemy.uasset'
+[2024.11.26-23.00.29:741][ 69]AssetCheck: New page: Asset Save: BP_Enemy
+[2024.11.26-23.00.29:741][ 69]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Enemy/BP_Enemy.BP_Enemy
+[2024.11.26-23.00.40:120][608]BlueprintLog: New page: Compile BP_Enemy
+[2024.11.26-23.00.40:238][608]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2024.11.26-23.00.40:410][616]BlueprintLog: New page: Compile BP_Enemy
+[2024.11.26-23.00.40:525][616]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2024.11.26-23.02.41:850][365]BlueprintLog: New page: Compile BP_Enemy
+[2024.11.26-23.02.42:002][365]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2024.11.26-23.02.42:430][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemy/BP_Enemy" FILE="C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/BP_Enemy/BP_Enemy.uasset" SILENT=true
+[2024.11.26-23.02.42:442][385]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/BP_Enemy468A1CF84175DA4232A394BAFC503457.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/BP_Enemy/BP_Enemy.uasset'
+[2024.11.26-23.02.42:459][385]AssetCheck: New page: Asset Save: BP_Enemy
+[2024.11.26-23.02.42:459][385]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Enemy/BP_Enemy.BP_Enemy
+[2024.11.26-23.03.12:149][135]BlueprintLog: New page: Compile BP_Enemy
+[2024.11.26-23.03.12:274][135]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2024.11.26-23.03.12:580][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemy/BP_Enemy" FILE="C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/BP_Enemy/BP_Enemy.uasset" SILENT=true
+[2024.11.26-23.03.12:592][147]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/BP_EnemyA602D75B4BDBED6B27DA4B8E8319FCC2.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/BP_Enemy/BP_Enemy.uasset'
+[2024.11.26-23.03.12:608][147]AssetCheck: New page: Asset Save: BP_Enemy
+[2024.11.26-23.03.12:608][147]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Enemy/BP_Enemy.BP_Enemy
+[2024.11.26-23.03.28:282][642]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetMathLibrary::RInterpTo' [Nie można odnaleźć określonego modułu.]
+[2024.11.26-23.04.52:681][995]BlueprintLog: New page: Compile BP_Enemy
+[2024.11.26-23.04.52:803][995]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2024.11.26-23.04.53:089][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemy/BP_Enemy" FILE="C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/BP_Enemy/BP_Enemy.uasset" SILENT=true
+[2024.11.26-23.04.53:101][  7]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/BP_EnemyD52D8C4E4AB7FFE2938ACCB1AFCB04A0.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/BP_Enemy/BP_Enemy.uasset'
+[2024.11.26-23.04.53:117][  7]AssetCheck: New page: Asset Save: BP_Enemy
+[2024.11.26-23.04.53:117][  7]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Enemy/BP_Enemy.BP_Enemy
+[2024.11.26-23.05.24:195][641]BlueprintLog: New page: Compile BP_Enemy
+[2024.11.26-23.05.24:310][641]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2024.11.26-23.05.26:492][755]LogTemp: Repeating last play command: Selected Viewport
+[2024.11.26-23.05.26:497][755]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.26-23.05.26:497][755]PIE: New page: PIE session: Main (27 lis 2024, 01:05:26)
+[2024.11.26-23.05.26:497][755]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.11.26-23.05.26:546][755]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047621s)
+[2024.11.26-23.05.26:546][755]LogAIModule: Creating AISystem for world Main
+[2024.11.26-23.05.26:546][755]LogPlayLevel: PIE: World Init took: (0.000905s)
+[2024.11.26-23.05.26:546][755]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.048669s)
+[2024.11.26-23.05.26:583][755]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2024.11.26-23.05.26:585][755]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.11.26-23.05.26:586][755]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.26-23.05.26:586][755]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.26-23.05.26:586][755]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.26-23.05.26:586][755]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.26-23.05.26:586][755]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.26-23.05.26:586][755]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.26-23.05.26:586][755]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.26-23.05.26:586][755]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.26-23.05.26:586][755]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.26-23.05.26:586][755]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.26-23.05.26:586][755]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.26-23.05.26:586][755]LogAudioMixer: Display: Initializing audio mixer.
+[2024.11.26-23.05.26:591][755]LogAudioMixer: Display: 0: FrontLeft
+[2024.11.26-23.05.26:591][755]LogAudioMixer: Display: 1: FrontRight
+[2024.11.26-23.05.26:626][755]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2024.11.26-23.05.26:626][755]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.26-23.05.26:626][755]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.26-23.05.26:626][755]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.26-23.05.26:627][755]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.11.26-23.05.26:627][755]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.11.26-23.05.26:627][755]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.11.26-23.05.26:628][755]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.11.26-23.05.26:628][755]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.11.26-23.05.26:628][755]LogInit: FAudioDevice initialized.
+[2024.11.26-23.05.26:628][755]LogAudio: Display: Audio Device (ID: 11) registered with world 'Main'.
+[2024.11.26-23.05.26:640][755]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2024.11.26-23.05.26:643][755]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Main.Main:PersistentLevel.Cylinder15_89.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=24.935 Y=24.627 Z=0.000
+[2024.11.26-23.05.26:643][755]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2024.11.26-23.05.26:643][755]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2024.11.26-23.05.26:645][755]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.11.27-00.05.26
+[2024.11.26-23.05.26:646][755]LogWorld: Bringing up level for play took: 0.005766
+[2024.11.26-23.05.26:646][755]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2024.11.26-23.05.26:650][755]PIE: Server logged in
+[2024.11.26-23.05.26:651][755]PIE: Play in editor total start time 0,154 seconds.
+[2024.11.26-23.05.38:199][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.26-23.05.38:199][444]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.11.26-23.05.38:199][444]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.11.26-23.05.38:200][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.26-23.05.38:210][444]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.26-23.05.38:244][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.26-23.05.38:275][444]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.26-23.05.38:277][444]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.11.26-23.05.38:278][444]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.11.26-23.05.38:280][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.26-23.05.38:289][444]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2024.11.26-23.05.38:329][445]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2024.11.26-23.05.53:896][364]BlueprintLog: New page: Compile BP_Enemy
+[2024.11.26-23.05.54:024][364]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2024.11.26-23.05.54:300][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemy/BP_Enemy" FILE="C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/BP_Enemy/BP_Enemy.uasset" SILENT=true
+[2024.11.26-23.05.54:313][377]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/BP_Enemy36312B9A4099C4B033CE07B3A02803A0.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/BP_Enemy/BP_Enemy.uasset'
+[2024.11.26-23.05.54:326][377]AssetCheck: New page: Asset Save: BP_Enemy
+[2024.11.26-23.05.54:326][377]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Enemy/BP_Enemy.BP_Enemy
+[2024.11.26-23.05.56:055][477]LogTemp: Repeating last play command: Selected Viewport
+[2024.11.26-23.05.56:061][477]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.26-23.05.56:061][477]PIE: New page: PIE session: Main (27 lis 2024, 01:05:56)
+[2024.11.26-23.05.56:061][477]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.11.26-23.05.56:108][477]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046877s)
+[2024.11.26-23.05.56:109][477]LogAIModule: Creating AISystem for world Main
+[2024.11.26-23.05.56:109][477]LogPlayLevel: PIE: World Init took: (0.000930s)
+[2024.11.26-23.05.56:109][477]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.047950s)
+[2024.11.26-23.05.56:145][477]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2024.11.26-23.05.56:147][477]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.11.26-23.05.56:147][477]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.26-23.05.56:147][477]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.26-23.05.56:147][477]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.26-23.05.56:147][477]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.26-23.05.56:147][477]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.26-23.05.56:147][477]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.26-23.05.56:147][477]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.26-23.05.56:147][477]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.26-23.05.56:147][477]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.26-23.05.56:147][477]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.26-23.05.56:147][477]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.26-23.05.56:147][477]LogAudioMixer: Display: Initializing audio mixer.
+[2024.11.26-23.05.56:151][477]LogAudioMixer: Display: 0: FrontLeft
+[2024.11.26-23.05.56:151][477]LogAudioMixer: Display: 1: FrontRight
+[2024.11.26-23.05.56:190][477]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2024.11.26-23.05.56:190][477]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.26-23.05.56:190][477]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.26-23.05.56:190][477]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.26-23.05.56:190][477]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.11.26-23.05.56:190][477]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.11.26-23.05.56:190][477]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.11.26-23.05.56:192][477]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.11.26-23.05.56:192][477]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.11.26-23.05.56:192][477]LogInit: FAudioDevice initialized.
+[2024.11.26-23.05.56:193][477]LogAudio: Display: Audio Device (ID: 12) registered with world 'Main'.
+[2024.11.26-23.05.56:203][477]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2024.11.26-23.05.56:206][477]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Main.Main:PersistentLevel.Cylinder15_89.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=24.935 Y=24.627 Z=0.000
+[2024.11.26-23.05.56:206][477]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2024.11.26-23.05.56:206][477]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2024.11.26-23.05.56:209][477]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.11.27-00.05.56
+[2024.11.26-23.05.56:209][477]LogWorld: Bringing up level for play took: 0.005553
+[2024.11.26-23.05.56:209][477]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2024.11.26-23.05.56:213][477]PIE: Server logged in
+[2024.11.26-23.05.56:214][477]PIE: Play in editor total start time 0,155 seconds.
+[2024.11.26-23.06.03:341][900]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.26-23.06.03:341][900]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.11.26-23.06.03:341][900]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.11.26-23.06.03:342][900]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.26-23.06.03:355][900]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.26-23.06.03:388][900]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.26-23.06.03:419][900]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.26-23.06.03:419][900]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.11.26-23.06.03:421][900]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.11.26-23.06.03:424][900]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.26-23.06.03:432][900]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2024.11.26-23.06.03:476][901]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2024.11.26-23.06.19:107][822]BlueprintLog: New page: Compile BP_Enemy
+[2024.11.26-23.06.19:217][822]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2024.11.26-23.06.21:138][931]LogTemp: Repeating last play command: Selected Viewport
+[2024.11.26-23.06.21:144][931]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.26-23.06.21:145][931]PIE: New page: PIE session: Main (27 lis 2024, 01:06:21)
+[2024.11.26-23.06.21:185][931]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.11.26-23.06.21:234][931]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048722s)
+[2024.11.26-23.06.21:235][931]LogAIModule: Creating AISystem for world Main
+[2024.11.26-23.06.21:235][931]LogPlayLevel: PIE: World Init took: (0.000898s)
+[2024.11.26-23.06.21:235][931]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.049805s)
+[2024.11.26-23.06.21:271][931]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2024.11.26-23.06.21:273][931]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.11.26-23.06.21:273][931]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.26-23.06.21:273][931]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.26-23.06.21:273][931]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.26-23.06.21:273][931]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.26-23.06.21:273][931]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.26-23.06.21:273][931]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.26-23.06.21:273][931]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.26-23.06.21:273][931]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.26-23.06.21:274][931]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.26-23.06.21:274][931]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.26-23.06.21:274][931]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.26-23.06.21:274][931]LogAudioMixer: Display: Initializing audio mixer.
+[2024.11.26-23.06.21:278][931]LogAudioMixer: Display: 0: FrontLeft
+[2024.11.26-23.06.21:278][931]LogAudioMixer: Display: 1: FrontRight
+[2024.11.26-23.06.21:316][931]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2024.11.26-23.06.21:316][931]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.26-23.06.21:316][931]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.26-23.06.21:316][931]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.26-23.06.21:317][931]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.11.26-23.06.21:317][931]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.11.26-23.06.21:317][931]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.11.26-23.06.21:318][931]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.11.26-23.06.21:318][931]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.11.26-23.06.21:318][931]LogInit: FAudioDevice initialized.
+[2024.11.26-23.06.21:318][931]LogAudio: Display: Audio Device (ID: 13) registered with world 'Main'.
+[2024.11.26-23.06.21:330][931]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2024.11.26-23.06.21:333][931]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Main.Main:PersistentLevel.Cylinder15_89.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=24.935 Y=24.627 Z=0.000
+[2024.11.26-23.06.21:333][931]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2024.11.26-23.06.21:333][931]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2024.11.26-23.06.21:336][931]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.11.27-00.06.21
+[2024.11.26-23.06.21:336][931]LogWorld: Bringing up level for play took: 0.005489
+[2024.11.26-23.06.21:337][931]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2024.11.26-23.06.21:341][931]PIE: Server logged in
+[2024.11.26-23.06.21:342][931]PIE: Play in editor total start time 0,198 seconds.
+[2024.11.26-23.06.43:395][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.26-23.06.43:395][251]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.11.26-23.06.43:395][251]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.11.26-23.06.43:396][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.26-23.06.43:410][251]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.26-23.06.43:443][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.26-23.06.43:476][251]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.26-23.06.43:476][251]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.11.26-23.06.43:477][251]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.11.26-23.06.43:480][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.26-23.06.43:487][251]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2024.11.26-23.06.43:530][252]LogPlayLevel: Display: Destroying online subsystem :Context_34
