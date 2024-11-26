@@ -1018,3 +1018,1084 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.11.26-18.27.30:132][692]LogRenderer: Reallocating scene render targets to support 1044x644 Format 10 NumSamples 1 (Frame:349).
 [2024.11.26-18.27.30:161][693]LogRenderer: Reallocating scene render targets to support 1044x648 Format 10 NumSamples 1 (Frame:351).
 [2024.11.26-18.27.36:536][ 71]LogSlate: Took 0.009282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.11.26-18.31.27:828][752]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.11.26-18.35.02:786][752]LogTexture: Display: Building textures: tedndbsq_8K_Displacement (OODLE_AutoDXT, 8192X8192)
+[2024.11.26-18.35.02:791][752]LogTexture: Display: Building textures: tedndbsq_8K_Roughness (OODLE_AutoDXT, 8192X8192)
+[2024.11.26-18.35.02:791][752]LogTexture: Display: Building textures: tedndbsq_8K_Albedo (OODLE_AutoDXT, 8192X8192)
+[2024.11.26-18.35.02:791][752]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.11.26-18.35.02:791][752]LogTexture: Display: Building textures: tedndbsq_8K_Normal (OODLE_BC5, 8192X8192)
+[2024.11.26-18.35.02:791][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:791][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:791][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:791][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:791][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:791][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:791][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:792][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:792][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:792][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:792][752]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.11.26-18.35.02:792][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:792][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:792][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:792][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:792][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:792][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:792][752]LogTexture: Display: Building textures: tdzmdg3o_8K_Albedo (OODLE_AutoDXT, 8192X8192)
+[2024.11.26-18.35.02:792][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:792][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:792][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:792][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:792][752]LogTexture: Display: Building textures: tedhbcyk_8K_Displacement (OODLE_AutoDXT, 8192X8192)
+[2024.11.26-18.35.02:792][752]LogTexture: Display: Building textures: tedhbcyk_8K_Roughness (OODLE_AutoDXT, 8192X8192)
+[2024.11.26-18.35.02:792][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:792][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:792][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:792][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:792][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:792][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:792][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:792][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:792][752]LogTexture: Display: Building textures: tedhbcyk_8K_Albedo (OODLE_AutoDXT, 8192X8192)
+[2024.11.26-18.35.02:792][752]LogTexture: Display: Building textures: tedhbcyk_8K_Normal (OODLE_BC5, 8192X8192)
+[2024.11.26-18.35.02:792][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:792][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:792][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:792][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:792][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:792][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:792][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:792][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:792][752]LogTexture: Display: Building textures: td1hcimn_8K_Displacement (OODLE_AutoDXT, 8192X8192)
+[2024.11.26-18.35.02:792][752]LogTexture: Display: Building textures: td1hcimn_8K_Roughness (OODLE_AutoDXT, 8192X8192)
+[2024.11.26-18.35.02:792][752]LogTexture: Display: Building textures: td1hcimn_8K_Albedo (OODLE_AutoDXT, 8192X8192)
+[2024.11.26-18.35.02:792][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:792][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:792][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:792][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:792][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:792][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:792][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:792][752]LogTexture: Display: Building textures: td1hcimn_8K_Normal (OODLE_BC5, 8192X8192)
+[2024.11.26-18.35.02:792][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:792][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:792][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:792][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:793][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:793][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:793][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:793][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:793][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:793][752]LogTexture: Display: Building textures: tefgafrk_8K_Displacement (OODLE_AutoDXT, 8192X8192)
+[2024.11.26-18.35.02:793][752]LogTexture: Display: Building textures: tefgafrk_8K_Roughness (OODLE_AutoDXT, 8192X8192)
+[2024.11.26-18.35.02:793][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:793][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:793][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:793][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:793][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:793][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:793][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:793][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:793][752]LogTexture: Display: Building textures: tefgafrk_8K_Normal (OODLE_BC5, 8192X8192)
+[2024.11.26-18.35.02:793][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:793][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:793][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:793][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:793][752]LogTexture: Display: Building textures: teelahok_8K_Displacement (OODLE_AutoDXT, 8192X8192)
+[2024.11.26-18.35.02:793][752]LogTexture: Display: Building textures: teelahok_8K_Roughness (OODLE_AutoDXT, 8192X8192)
+[2024.11.26-18.35.02:793][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:793][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:793][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:793][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:793][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:793][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:793][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:793][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:793][752]LogTexture: Display: Building textures: teelahok_8K_Albedo (OODLE_AutoDXT, 8192X8192)
+[2024.11.26-18.35.02:793][752]LogTexture: Display: Building textures: teelahok_8K_Normal (OODLE_BC5, 8192X8192)
+[2024.11.26-18.35.02:793][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:793][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:793][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:793][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:793][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:793][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:793][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:793][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:794][752]LogTexture: Display: Building textures: tefndhwq_8K_Displacement (OODLE_AutoDXT, 8192X8192)
+[2024.11.26-18.35.02:794][752]LogTexture: Display: Building textures: tefndhwq_8K_Roughness (OODLE_AutoDXT, 8192X8192)
+[2024.11.26-18.35.02:794][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:794][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:794][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:794][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:794][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:794][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:794][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:794][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:794][752]LogTexture: Display: Building textures: tefndhwq_8K_Albedo (OODLE_AutoDXT, 8192X8192)
+[2024.11.26-18.35.02:794][752]LogTexture: Display: Building textures: tefndhwq_8K_Normal (OODLE_BC5, 8192X8192)
+[2024.11.26-18.35.02:795][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:795][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:795][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:795][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:795][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:795][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:795][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:795][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:795][752]LogTexture: Display: Building textures: tefobabq_8K_Displacement (OODLE_AutoDXT, 8192X8192)
+[2024.11.26-18.35.02:795][752]LogTexture: Display: Building textures: tefobabq_8K_Roughness (OODLE_AutoDXT, 8192X8192)
+[2024.11.26-18.35.02:795][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:795][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:795][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:795][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:795][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:796][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:796][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:796][752]LogTexture: Display: Building textures: tefobabq_8K_Normal (OODLE_BC5, 8192X8192)
+[2024.11.26-18.35.02:796][752]LogTexture: Display: Building textures: tefobabq_8K_Albedo (OODLE_AutoDXT, 8192X8192)
+[2024.11.26-18.35.02:796][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:796][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:796][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:796][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:796][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:796][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:796][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:796][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:796][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:796][752]LogTexture: Display: Building textures: tgrhebdk_8K_Displacement (OODLE_AutoDXT, 8192X8192)
+[2024.11.26-18.35.02:796][752]LogTexture: Display: Building textures: tgrhebdk_8K_Roughness (OODLE_AutoDXT, 8192X8192)
+[2024.11.26-18.35.02:796][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:796][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:796][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:796][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:796][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:796][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:796][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:796][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:796][752]LogTexture: Display: Building textures: tgrhebdk_8K_Albedo (OODLE_AutoDXT, 8192X8192)
+[2024.11.26-18.35.02:796][752]LogTexture: Display: Building textures: tgrhebdk_8K_Normal (OODLE_BC5, 8192X8192)
+[2024.11.26-18.35.02:796][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:796][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:796][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:796][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:796][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:796][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:796][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:796][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:796][752]LogTexture: Display: Building textures: thyhdjnk_8K_Displacement (OODLE_AutoDXT, 8192X4096)
+[2024.11.26-18.35.02:796][752]LogTexture: Display: Building textures: thyhdjnk_8K_Roughness (OODLE_AutoDXT, 8192X4096)
+[2024.11.26-18.35.02:796][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:796][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:797][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:797][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:797][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:797][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:797][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:797][752]LogTexture: Display: Building textures: thyhdjnk_8K_Albedo (OODLE_AutoDXT, 8192X4096)
+[2024.11.26-18.35.02:797][752]LogTexture: Display: Building textures: thyhdjnk_8K_Normal (OODLE_BC5, 8192X4096)
+[2024.11.26-18.35.02:797][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:797][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:797][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:797][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:797][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:797][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:797][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:797][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:797][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:797][752]LogTexture: Display: Building textures: pkcgG_4K_Displacement (OODLE_AutoDXT, 4096X4096)
+[2024.11.26-18.35.02:797][752]LogTexture: Display: Building textures: pkcgG_4K_Roughness (OODLE_AutoDXT, 4096X4096)
+[2024.11.26-18.35.02:797][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:797][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:797][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:797][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:797][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:797][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:797][752]LogTexture: Display: Building textures: pkcgG_4K_Normal (OODLE_BC5, 4096X4096)
+[2024.11.26-18.35.02:797][752]LogTexture: Display: Building textures: pkcgG_4K_Albedo (OODLE_AutoDXT, 4096X4096)
+[2024.11.26-18.35.02:797][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:797][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:797][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:797][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:797][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:797][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:797][752]LogTexture: Display: Building textures: tepgaajk_8K_Displacement (OODLE_AutoDXT, 8192X8192)
+[2024.11.26-18.35.02:797][752]LogTexture: Display: Building textures: tepgaajk_8K_Roughness (OODLE_AutoDXT, 8192X8192)
+[2024.11.26-18.35.02:797][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:797][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:797][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:797][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:797][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:797][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:797][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:797][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:797][752]LogTexture: Display: Building textures: tepgaajk_8K_Albedo (OODLE_AutoDXT, 8192X8192)
+[2024.11.26-18.35.02:797][752]LogTexture: Display: Building textures: tepgaajk_8K_Normal (OODLE_BC5, 8192X8192)
+[2024.11.26-18.35.02:797][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTexture: Display: Building textures: teshfj1q_8K_Displacement (OODLE_AutoDXT, 8192X8192)
+[2024.11.26-18.35.02:798][752]LogTexture: Display: Building textures: teshfj1q_8K_Roughness (OODLE_AutoDXT, 8192X8192)
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTexture: Display: Building textures: teshfj1q_8K_Albedo (OODLE_AutoDXT, 8192X8192)
+[2024.11.26-18.35.02:798][752]LogTexture: Display: Building textures: teshfj1q_8K_Normal (OODLE_BC5, 8192X8192)
+[2024.11.26-18.35.02:798][752]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTexture: Display: Building textures: tjmndf1dy_8K_Displacement (OODLE_AutoDXT, 8192X4096)
+[2024.11.26-18.35.02:798][752]LogTexture: Display: Building textures: tjmndf1dy_8K_Roughness (OODLE_AutoDXT, 8192X4096)
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTexture: Display: Building textures: tjmndf1dy_8K_Albedo (OODLE_AutoDXT, 8192X4096)
+[2024.11.26-18.35.02:798][752]LogTexture: Display: Building textures: tjmndf1dy_8K_Normal (OODLE_BC5, 8192X4096)
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTexture: Display: Building textures: tejidarl_8K_Displacement (OODLE_AutoDXT, 8192X8192)
+[2024.11.26-18.35.02:798][752]LogTexture: Display: Building textures: tejidarl_8K_Roughness (OODLE_AutoDXT, 8192X8192)
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTexture: Display: Building textures: tejidarl_8K_Albedo (OODLE_AutoDXT, 8192X8192)
+[2024.11.26-18.35.02:798][752]LogTexture: Display: Building textures: tejidarl_8K_Normal (OODLE_BC5, 8192X8192)
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTexture: Display: Building textures: tgzleibcw_8K_Displacement (OODLE_AutoDXT, 8192X8192)
+[2024.11.26-18.35.02:798][752]LogTexture: Display: Building textures: tgzleibcw_8K_Roughness (OODLE_AutoDXT, 8192X8192)
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTexture: Display: Building textures: tgzleibcw_8K_Albedo (OODLE_AutoDXT, 8192X8192)
+[2024.11.26-18.35.02:798][752]LogTexture: Display: Building textures: tgzleibcw_8K_Normal (OODLE_BC5, 8192X8192)
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTexture: Display: Building textures: td1jahmo_8K_Displacement (OODLE_AutoDXT, 8192X8192)
+[2024.11.26-18.35.02:798][752]LogTexture: Display: Building textures: td1jahmo_8K_Roughness (OODLE_AutoDXT, 8192X8192)
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:798][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:799][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:799][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:799][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:799][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:799][752]LogTexture: Display: Building textures: td1jahmo_8K_Albedo (OODLE_AutoDXT, 8192X8192)
+[2024.11.26-18.35.02:799][752]LogTexture: Display: Building textures: td1jahmo_8K_Normal (OODLE_BC5, 8192X8192)
+[2024.11.26-18.35.02:799][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:799][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:799][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:799][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:799][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:799][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:799][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:799][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:799][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:799][752]LogTexture: Display: Building textures: teikafuk_8K_Displacement (OODLE_AutoDXT, 8192X8192)
+[2024.11.26-18.35.02:799][752]LogTexture: Display: Building textures: teikafuk_8K_Roughness (OODLE_AutoDXT, 8192X8192)
+[2024.11.26-18.35.02:799][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:799][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:799][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:799][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:799][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:799][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:799][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:799][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:799][752]LogTexture: Display: Building textures: teikafuk_8K_Albedo (OODLE_AutoDXT, 8192X8192)
+[2024.11.26-18.35.02:799][752]LogTexture: Display: Building textures: teikafuk_8K_Normal (OODLE_BC5, 8192X8192)
+[2024.11.26-18.35.02:799][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:799][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:799][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:799][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.11.26-18.35.02:799][752]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:799][752]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:799][752]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:799][752]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.11.26-18.35.02:799][752]LogUObjectHash: Compacting FUObjectHashTables data took  20.98ms
+[2024.11.26-18.36.23:560][752]LogSlate: Window 'Delete Assets' being destroyed
+[2024.11.26-19.26.40:160][641]LogTemp: Repeating last play command: Selected Viewport
+[2024.11.26-19.26.40:203][641]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.26-19.26.40:205][641]PIE: New page: PIE session: Main (26 lis 2024, 21:26:40)
+[2024.11.26-19.26.40:223][641]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2024.11.26-19.26.40:228][641]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2024.11.26-19.26.40:232][641]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.11.26-19.26.40:312][641]LogPlayLevel: PIE: StaticDuplicateObject took: (0.079206s)
+[2024.11.26-19.26.40:352][641]LogAIModule: Creating AISystem for world Main
+[2024.11.26-19.26.40:364][641]LogPlayLevel: PIE: World Init took: (0.052029s)
+[2024.11.26-19.26.40:364][641]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.132921s)
+[2024.11.26-19.26.40:373][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.11.26-19.26.40:381][641]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.11.26-19.26.40:383][641]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.26-19.26.40:383][641]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.26-19.26.40:383][641]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.26-19.26.40:383][641]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.26-19.26.40:383][641]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.26-19.26.40:383][641]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.26-19.26.40:383][641]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.26-19.26.40:383][641]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.26-19.26.40:391][641]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.26-19.26.40:391][641]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.26-19.26.40:391][641]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.26-19.26.40:391][641]LogAudioMixer: Display: Initializing audio mixer.
+[2024.11.26-19.26.40:417][641]LogAudioMixer: Display: 0: FrontLeft
+[2024.11.26-19.26.40:417][641]LogAudioMixer: Display: 1: FrontRight
+[2024.11.26-19.26.40:529][641]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2024.11.26-19.26.40:532][641]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.26-19.26.40:532][641]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.26-19.26.40:533][641]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.26-19.26.40:536][641]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.11.26-19.26.40:536][641]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.11.26-19.26.40:536][641]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.11.26-19.26.40:538][641]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.11.26-19.26.40:538][641]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.11.26-19.26.40:538][641]LogInit: FAudioDevice initialized.
+[2024.11.26-19.26.40:538][641]LogAudio: Display: Audio Device (ID: 2) registered with world 'Main'.
+[2024.11.26-19.26.40:585][641]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2024.11.26-19.26.40:635][641]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Main.Main:PersistentLevel.Cylinder15_89.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=24.935 Y=24.627 Z=0.000
+[2024.11.26-19.26.40:635][641]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2024.11.26-19.26.40:635][641]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2024.11.26-19.26.40:636][641]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.11.26-20.26.40
+[2024.11.26-19.26.40:640][641]LogWorld: Bringing up level for play took: 0.034831
+[2024.11.26-19.26.40:645][641]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2024.11.26-19.26.40:685][641]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0088 seconds. Added 20 classes and 0 folders.
+[2024.11.26-19.26.40:725][641]PIE: Server logged in
+[2024.11.26-19.26.40:876][641]PIE: Play in editor total start time 0,681 seconds.
+[2024.11.26-19.26.44:453][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.26-19.26.44:454][ 19]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.11.26-19.26.44:458][ 19]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.11.26-19.26.44:462][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.26-19.26.44:482][ 19]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.26-19.26.44:484][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.26-19.26.44:491][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.26-19.26.44:491][ 19]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.11.26-19.26.44:493][ 19]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.11.26-19.26.44:519][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.11.26-19.26.44:530][ 20]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2024.11.26-19.36.01:296][241]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_ChAnimation_C_0
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:0040
+[2024.11.26-19.36.01:296][241]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_ChAnimation_C_0
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:00EA
+[2024.11.26-19.36.01:298][241]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_ChAnimation_C_0
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:017A
+[2024.11.26-19.36.01:298][241]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_ChAnimation_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_ChAnimation_C_0
+	Function /Game/Blueprints/Pawns/BP_ChAnimation.BP_ChAnimation_C:ExecuteUbergraph_BP_ChAnimation:01AC
+[2024.11.26-19.36.03:732][393]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_Character.BP_Character
+[2024.11.26-19.36.04:854][393]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0030 seconds. Added 126 classes and 0 folders.
+[2024.11.26-19.36.06:198][393]LogSlate: Took 0.006570 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.11.26-19.43.25:703][ 99]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Effects\Effects1\Effects\Weapons\Muzzle\P_AssaultRifle_MF.uasset: Failed to load '/Game/Effects/Misc/Materials/LensFlare/M_Lensflare_01': Can't find file.
+[2024.11.26-19.43.25:703][ 99]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Effects\Effects1\Effects\Weapons\Muzzle\P_AssaultRifle_MF.uasset: Failed to load '/Game/Effects/Misc/Materials/LensFlare/M_Lensflare_01': Can't find file.
+[2024.11.26-19.43.25:703][ 99]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Effects\Effects1\Effects\Weapons\Muzzle\P_AssaultRifle_MF.uasset: Failed to load '/Game/Effects/Misc/Materials/Ramp/M_SoftGradient_Muzzle': Can't find file.
+[2024.11.26-19.43.25:710][ 99]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Effects\Effects1\Effects\Weapons\Muzzle\P_AssaultRifle_MF.uasset: Failed to load '/Game/Effects/Misc/Materials/Ramp/M_SoftGradient_Muzzle': Can't find file.
+[2024.11.26-19.43.25:710][ 99]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Effects\Effects1\Effects\Weapons\Muzzle\P_AssaultRifle_MF.uasset: Failed to load '/Game/Effects/Misc/Materials/Smoke/M_ImpactSmoke': Can't find file.
+[2024.11.26-19.43.25:711][ 99]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Effects\Effects1\Effects\Weapons\Muzzle\P_AssaultRifle_MF.uasset: Failed to load '/Game/Effects/Misc/Materials/Smoke/M_ImpactSmoke': Can't find file.
+[2024.11.26-19.43.25:712][ 99]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Effects\Effects1\Effects\Weapons\Muzzle\P_AssaultRifle_MF.uasset: Failed to load '/Game/Effects/Misc/Materials/Smoke/M_SmokeBall': Can't find file.
+[2024.11.26-19.43.25:713][ 99]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Effects\Effects1\Effects\Weapons\Muzzle\P_AssaultRifle_MF.uasset: Failed to load '/Game/Effects/Misc/Materials/Smoke/M_SmokeBall': Can't find file.
+[2024.11.26-19.43.25:713][ 99]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Effects\Effects1\Effects\Weapons\Muzzle\P_AssaultRifle_MF.uasset: Failed to load '/Game/Effects/Misc/Materials/Weapon/M_muzzle_flash_subUV': Can't find file.
+[2024.11.26-19.43.25:713][ 99]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Effects\Effects1\Effects\Weapons\Muzzle\P_AssaultRifle_MF.uasset: Failed to load '/Game/Effects/Misc/Materials/Weapon/M_muzzle_flash_subUV': Can't find file.
+[2024.11.26-19.43.25:713][ 99]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Effects\Effects1\Effects\Weapons\Muzzle\P_AssaultRifle_MF.uasset: Failed to load '/Game/Effects/Misc/Materials/Weapon/M_MuzzleGlow': Can't find file.
+[2024.11.26-19.43.25:713][ 99]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Effects\Effects1\Effects\Weapons\Muzzle\P_AssaultRifle_MF.uasset: Failed to load '/Game/Effects/Misc/Materials/Weapon/M_MuzzleGlow': Can't find file.
+[2024.11.26-19.43.25:714][ 99]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Effects\Effects1\Effects\Weapons\Muzzle\P_AssaultRifle_MF.uasset: Failed to load '/Game/Effects/Misc/Materials/LensFlare/M_Lensflare_01': Can't find file.
+[2024.11.26-19.43.25:714][ 99]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Effects\Effects1\Effects\Weapons\Muzzle\P_AssaultRifle_MF.uasset: Failed to load '/Game/Effects/Misc/Materials/Ramp/M_SoftGradient_Muzzle': Can't find file.
+[2024.11.26-19.43.25:714][ 99]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Effects\Effects1\Effects\Weapons\Muzzle\P_AssaultRifle_MF.uasset: Failed to load '/Game/Effects/Misc/Materials/Smoke/M_ImpactSmoke': Can't find file.
+[2024.11.26-19.43.25:714][ 99]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Effects\Effects1\Effects\Weapons\Muzzle\P_AssaultRifle_MF.uasset: Failed to load '/Game/Effects/Misc/Materials/Smoke/M_SmokeBall': Can't find file.
+[2024.11.26-19.43.25:714][ 99]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Effects\Effects1\Effects\Weapons\Muzzle\P_AssaultRifle_MF.uasset: Failed to load '/Game/Effects/Misc/Materials/Weapon/M_muzzle_flash_subUV': Can't find file.
+[2024.11.26-19.43.25:715][ 99]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Effects\Effects1\Effects\Weapons\Muzzle\P_AssaultRifle_MF.uasset: Failed to load '/Game/Effects/Misc/Materials/Weapon/M_MuzzleGlow': Can't find file.
+[2024.11.26-19.43.25:715][ 99]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Effects\Effects1\Effects\Weapons\Muzzle\P_AssaultRifle_MF.uasset: Failed to load '/Game/Effects/Misc/Meshes/Weapon/SM_MuzzleCone': Can't find file.
+[2024.11.26-19.43.25:715][ 99]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Effects\Effects1\Effects\Weapons\Muzzle\P_AssaultRifle_MF.uasset: Failed to load '/Game/Effects/Misc/Meshes/Weapon/SM_MuzzleCone': Can't find file.
+[2024.11.26-19.43.25:715][ 99]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Effects\Effects1\Effects\Weapons\Muzzle\P_AssaultRifle_MF.uasset: Failed to load '/Game/Effects/Misc/Meshes/Weapon/SM_MuzzleCone': Can't find file.
+[2024.11.26-19.43.25:721][ 99]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Effects\Effects1\Effects\Weapons\Muzzle\P_AssaultRifle_MF.uasset: Failed to load '/Game/Effects/Misc/Materials/LensFlare/M_Lensflare_01': Can't find file.
+[2024.11.26-19.43.25:721][ 99]LoadErrors: Failed to load /Game/Effects/Misc/Materials/LensFlare/M_Lensflare_01.M_Lensflare_01 Referenced by ParticleModuleRequired_0
+[2024.11.26-19.43.25:722][ 99]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Effects\Effects1\Effects\Weapons\Muzzle\P_AssaultRifle_MF.uasset: Failed to load '/Game/Effects/Misc/Materials/Ramp/M_SoftGradient_Muzzle': Can't find file.
+[2024.11.26-19.43.25:722][ 99]LoadErrors: Failed to load /Game/Effects/Misc/Materials/Ramp/M_SoftGradient_Muzzle.M_SoftGradient_Muzzle Referenced by ParticleModuleRequired_28
+[2024.11.26-19.43.25:722][ 99]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Effects\Effects1\Effects\Weapons\Muzzle\P_AssaultRifle_MF.uasset: Failed to load '/Game/Effects/Misc/Materials/Smoke/M_ImpactSmoke': Can't find file.
+[2024.11.26-19.43.25:722][ 99]LoadErrors: Failed to load /Game/Effects/Misc/Materials/Smoke/M_ImpactSmoke.M_ImpactSmoke Referenced by ParticleModuleRequired_35
+[2024.11.26-19.43.25:723][ 99]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Effects\Effects1\Effects\Weapons\Muzzle\P_AssaultRifle_MF.uasset: Failed to load '/Game/Effects/Misc/Materials/Smoke/M_ImpactSmoke': Can't find file.
+[2024.11.26-19.43.25:723][ 99]LoadErrors: Failed to load /Game/Effects/Misc/Materials/Smoke/M_ImpactSmoke.M_ImpactSmoke Referenced by ParticleModuleRequired_36
+[2024.11.26-19.43.25:723][ 99]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Effects\Effects1\Effects\Weapons\Muzzle\P_AssaultRifle_MF.uasset: Failed to load '/Game/Effects/Misc/Materials/Smoke/M_ImpactSmoke': Can't find file.
+[2024.11.26-19.43.25:723][ 99]LoadErrors: Failed to load /Game/Effects/Misc/Materials/Smoke/M_ImpactSmoke.M_ImpactSmoke Referenced by ParticleModuleRequired_38
+[2024.11.26-19.43.25:724][ 99]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Effects\Effects1\Effects\Weapons\Muzzle\P_AssaultRifle_MF.uasset: Failed to load '/Game/Effects/Misc/Materials/Smoke/M_SmokeBall': Can't find file.
+[2024.11.26-19.43.25:724][ 99]LoadErrors: Failed to load /Game/Effects/Misc/Materials/Smoke/M_SmokeBall.M_SmokeBall Referenced by ParticleModuleRequired_39
+[2024.11.26-19.43.25:724][ 99]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Effects\Effects1\Effects\Weapons\Muzzle\P_AssaultRifle_MF.uasset: Failed to load '/Game/Effects/Misc/Materials/Smoke/M_SmokeBall': Can't find file.
+[2024.11.26-19.43.25:724][ 99]LoadErrors: Failed to load /Game/Effects/Misc/Materials/Smoke/M_SmokeBall.M_SmokeBall Referenced by ParticleModuleRequired_40
+[2024.11.26-19.43.25:724][ 99]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Effects\Effects1\Effects\Weapons\Muzzle\P_AssaultRifle_MF.uasset: Failed to load '/Game/Effects/Misc/Materials/Weapon/M_muzzle_flash_subUV': Can't find file.
+[2024.11.26-19.43.25:724][ 99]LoadErrors: Failed to load /Game/Effects/Misc/Materials/Weapon/M_muzzle_flash_subUV.M_muzzle_flash_subUV Referenced by ParticleModuleRequired_45
+[2024.11.26-19.43.25:724][ 99]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Effects\Effects1\Effects\Weapons\Muzzle\P_AssaultRifle_MF.uasset: Failed to load '/Game/Effects/Misc/Materials/Weapon/M_muzzle_flash_subUV': Can't find file.
+[2024.11.26-19.43.25:725][ 99]LoadErrors: Failed to load /Game/Effects/Misc/Materials/Weapon/M_muzzle_flash_subUV.M_muzzle_flash_subUV Referenced by ParticleModuleRequired_46
+[2024.11.26-19.43.25:725][ 99]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Effects\Effects1\Effects\Weapons\Muzzle\P_AssaultRifle_MF.uasset: Failed to load '/Game/Effects/Misc/Materials/Weapon/M_MuzzleGlow': Can't find file.
+[2024.11.26-19.43.25:725][ 99]LoadErrors: Failed to load /Game/Effects/Misc/Materials/Weapon/M_MuzzleGlow.M_MuzzleGlow Referenced by ParticleModuleRequired_49
+[2024.11.26-19.43.25:726][ 99]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Effects\Effects1\Effects\Weapons\Muzzle\P_AssaultRifle_MF.uasset: Failed to load '/Game/Effects/Misc/Meshes/Weapon/SM_MuzzleCone': Can't find file.
+[2024.11.26-19.43.25:726][ 99]LoadErrors: Failed to load /Game/Effects/Misc/Meshes/Weapon/SM_MuzzleCone.SM_MuzzleCone Referenced by ParticleModuleTypeDataMesh_8
+[2024.11.26-19.43.35:780][237]LogContentBrowser: Attempting asset rename: P_AssaultRifle_MF -> PIFPAF
+[2024.11.26-19.43.35:947][237]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/PIFPAFB28C0373496AC79E4F2E4186EBDDD805.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/Effects/Effects1/Effects/Weapons/Muzzle/PIFPAF.uasset'
+[2024.11.26-19.43.36:049][237]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2024.11.26-19.43.36:079][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.11.26-19.43.36:094][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.11.26-19.43.36:139][237]AssetCheck: New page: Asset Save: PIFPAF
+[2024.11.26-19.43.36:140][237]LogContentValidation: Display: Validating ParticleSystem /Game/Effects/Effects1/Effects/Weapons/Muzzle/PIFPAF.PIFPAF
+[2024.11.26-19.44.10:392][561]LogSlate: Window 'BP_Character' being destroyed
+[2024.11.26-19.44.10:398][561]LogSlate: Window 'BP_Character' being destroyed
+[2024.11.26-19.44.10:439][561]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.11.26-19.44.10:440][561]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.26-19.44.27:236][416]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Weapons/Weapons/Rifle.Rifle
+[2024.11.26-19.44.27:285][416]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2024.11.26-19.44.27:296][416]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2024.11.26-19.44.27:397][416]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2024.11.26-19.44.27:467][416]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.11.26-19.44.27:472][416]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0008 seconds. Added 1 classes and 0 folders.
+[2024.11.26-19.44.27:932][417]LogRenderer: Reallocating scene render targets to support 1044x708 Format 10 NumSamples 1 (Frame:1).
+[2024.11.26-19.44.36:967][265]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB_Inst3.uasset: Failed to load '/Game/Weapons/Materials/MagGun_MatB': Can't find file.
+[2024.11.26-19.44.36:967][265]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB_Inst3.uasset: Failed to load '/Game/Weapons/Materials/MagGun_MatB': Can't find file.
+[2024.11.26-19.44.36:967][265]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB_Inst3.uasset: Failed to load '/Game/Weapons/Materials/MagGun_MatB': Can't find file.
+[2024.11.26-19.44.36:967][265]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatB_Inst3.uasset: Failed to load '/Game/Weapons/Materials/MagGun_MatB': Can't find file.
+[2024.11.26-19.44.36:967][265]LoadErrors: Failed to load /Game/Weapons/Materials/MagGun_MatB.MagGun_MatB Referenced by MagGun_MatB_Inst3
+[2024.11.26-19.44.39:327][425]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_BoltMetal': Can't find file.
+[2024.11.26-19.44.39:328][425]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_BoltMetal': Can't find file.
+[2024.11.26-19.44.39:328][425]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_Metal_Copper': Can't find file.
+[2024.11.26-19.44.39:328][425]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_Metal_Copper': Can't find file.
+[2024.11.26-19.44.39:328][425]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_Metal_Gray': Can't find file.
+[2024.11.26-19.44.39:329][425]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_Metal_Gray': Can't find file.
+[2024.11.26-19.44.39:329][425]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_Paint': Can't find file.
+[2024.11.26-19.44.39:329][425]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_Paint': Can't find file.
+[2024.11.26-19.44.39:329][425]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_Rubber': Can't find file.
+[2024.11.26-19.44.39:329][425]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_Rubber': Can't find file.
+[2024.11.26-19.44.39:330][425]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_BoltMetal': Can't find file.
+[2024.11.26-19.44.39:330][425]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_Metal_Copper': Can't find file.
+[2024.11.26-19.44.39:330][425]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_Metal_Gray': Can't find file.
+[2024.11.26-19.44.39:330][425]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_Paint': Can't find file.
+[2024.11.26-19.44.39:330][425]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_Rubber': Can't find file.
+[2024.11.26-19.44.39:331][425]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/Textures/MagGun_01_N': Can't find file.
+[2024.11.26-19.44.39:331][425]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/Textures/MagGun_01_N': Can't find file.
+[2024.11.26-19.44.39:331][425]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/Textures/MagGun_Decals': Can't find file.
+[2024.11.26-19.44.39:331][425]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/Textures/MagGun_Decals': Can't find file.
+[2024.11.26-19.44.39:331][425]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/Textures/MagGunT1_section': Can't find file.
+[2024.11.26-19.44.39:332][425]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/Textures/MagGunT1_section': Can't find file.
+[2024.11.26-19.44.39:332][425]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/Textures/MagGunT1_shade': Can't find file.
+[2024.11.26-19.44.39:333][425]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/Textures/MagGunT1_shade': Can't find file.
+[2024.11.26-19.44.39:333][425]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/Textures/MagGun_01_N': Can't find file.
+[2024.11.26-19.44.39:333][425]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/Textures/MagGun_Decals': Can't find file.
+[2024.11.26-19.44.39:333][425]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/Textures/MagGunT1_section': Can't find file.
+[2024.11.26-19.44.39:333][425]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/Textures/MagGunT1_shade': Can't find file.
+[2024.11.26-19.44.39:334][425]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_Metal_Gray': Can't find file.
+[2024.11.26-19.44.39:335][425]LoadErrors: Failed to load /Game/Weapons/MaterialLayers/ML_Metal_Gray.ML_Metal_Gray Referenced by MaterialExpressionMaterialFunctionCall_10
+[2024.11.26-19.44.39:335][425]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_Rubber': Can't find file.
+[2024.11.26-19.44.39:335][425]LoadErrors: Failed to load /Game/Weapons/MaterialLayers/ML_Rubber.ML_Rubber Referenced by MaterialExpressionMaterialFunctionCall_26
+[2024.11.26-19.44.39:335][425]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_Paint': Can't find file.
+[2024.11.26-19.44.39:335][425]LoadErrors: Failed to load /Game/Weapons/MaterialLayers/ML_Paint.ML_Paint Referenced by MaterialExpressionMaterialFunctionCall_28
+[2024.11.26-19.44.39:336][425]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_BoltMetal': Can't find file.
+[2024.11.26-19.44.39:336][425]LoadErrors: Failed to load /Game/Weapons/MaterialLayers/ML_BoltMetal.ML_BoltMetal Referenced by MaterialExpressionMaterialFunctionCall_7
+[2024.11.26-19.44.39:336][425]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/MaterialLayers/ML_Metal_Copper': Can't find file.
+[2024.11.26-19.44.39:336][425]LoadErrors: Failed to load /Game/Weapons/MaterialLayers/ML_Metal_Copper.ML_Metal_Copper Referenced by MaterialExpressionMaterialFunctionCall_8
+[2024.11.26-19.44.39:336][425]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/Textures/MagGun_Decals': Can't find file.
+[2024.11.26-19.44.39:336][425]LoadErrors: Failed to load /Game/Weapons/Textures/MagGun_Decals.MagGun_Decals Referenced by MaterialExpressionTextureObject_3
+[2024.11.26-19.44.39:336][425]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/Textures/MagGunT1_section': Can't find file.
+[2024.11.26-19.44.39:336][425]LoadErrors: Failed to load /Game/Weapons/Textures/MagGunT1_section.MagGunT1_section Referenced by MaterialExpressionTextureSample_0
+[2024.11.26-19.44.39:336][425]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/Textures/MagGun_01_N': Can't find file.
+[2024.11.26-19.44.39:336][425]LoadErrors: Failed to load /Game/Weapons/Textures/MagGun_01_N.MagGun_01_N Referenced by MaterialExpressionTextureSample_10
+[2024.11.26-19.44.39:337][425]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to load '/Game/Weapons/Textures/MagGunT1_shade': Can't find file.
+[2024.11.26-19.44.39:337][425]LoadErrors: Failed to load /Game/Weapons/Textures/MagGunT1_shade.MagGunT1_shade Referenced by MaterialExpressionTextureSample_8
+[2024.11.26-19.44.39:351][425]LogMaterial: Display: Missing cached shadermap for MagGun_MatA in PCD3D_SM5, Default, SM5 (DDC key hash: 02BA5C47AA48558EF784E36FB3469D67A91A8A6F), compiling. 
+[2024.11.26-19.44.39:360][425]LogMaterial: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Weapons\Weapons\Materials\MagGun_MatA.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.11.26-19.44.39:360][425]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.11.26-19.44.39:360][425]LogMaterial: Display: 	Missing Material Function
+[2024.11.26-19.44.39:360][425]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Normal
+[2024.11.26-19.44.39:360][425]LogMaterial: Display: 	(Node TextureObject) Texture Object> Requires valid texture
+[2024.11.26-19.44.39:360][425]LogMaterial: Display: 	Function MatLayerBlend_Decal: (Node MakeMaterialAttributes) Error on property Normal
+[2024.11.26-19.44.39:360][425]LogMaterial: Display: 	Function MatLayerBlend_BakedNormal: (Node MakeMaterialAttributes) Error on property Normal
+[2024.11.26-19.44.39:360][425]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2024.11.26-19.44.39:360][425]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property BaseColor
+[2024.11.26-19.44.39:360][425]LogMaterial: Display: 	Function MatLayerBlend_Decal: (Node MakeMaterialAttributes) Error on property BaseColor
+[2024.11.26-19.44.39:360][425]LogMaterial: Display: 	Function MatLayerBlend_TintAllChannels: (Node MakeMaterialAttributes) Error on property BaseColor
+[2024.11.26-19.44.39:360][425]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Metallic
+[2024.11.26-19.44.39:360][425]LogMaterial: Display: 	Function MatLayerBlend_Decal: (Node MakeMaterialAttributes) Error on property Metallic
+[2024.11.26-19.44.39:360][425]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Specular
+[2024.11.26-19.44.39:360][425]LogMaterial: Display: 	Function MatLayerBlend_TintAllChannels: (Node MakeMaterialAttributes) Error on property Specular
+[2024.11.26-19.44.39:360][425]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Roughness
+[2024.11.26-19.44.39:360][425]LogMaterial: Display: 	Function MatLayerBlend_RoughnessOverride: (Node MakeMaterialAttributes) Error on property Roughness
+[2024.11.26-19.44.39:360][425]LogMaterial: Display: 	Function MatLayerBlend_Decal: (Node MakeMaterialAttributes) Error on property Roughness
+[2024.11.26-19.44.39:360][425]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property AmbientOcclusion
+[2024.11.26-19.44.39:360][425]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property PixelDepthOffset
+[2024.11.26-19.44.55:701][745]LogMaterial: Display: Missing cached shadermap for Imperfection_MasterMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: F2F89AD70666FC29F4A32B79326502B5BE6CE577), compiling. 
+[2024.11.26-19.44.55:737][745]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2024.11.26-19.44.55:748][745]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 16
+[2024.11.26-19.44.55:748][745]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2024.11.26-19.44.55:748][745]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2024.11.26-19.44.55:748][745]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2024.11.26-19.44.55:748][745]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2024.11.26-19.44.55:748][745]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2024.11.26-19.44.55:748][745]LogShaderCompilers: Display: Started 16 'Local' shader compile jobs with 'Low' priority
+[2024.11.26-19.44.55:761][745]LogMaterial: Display: Material /Game/MS_SandsEss/Master_Materials/Imperfection_MasterMaterial.Imperfection_MasterMaterial needed to have new flag set bUsedWithSkeletalMesh !
+[2024.11.26-19.44.55:764][745]LogMaterial: Display: Missing cached shadermap for Imperfection_MasterMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 8BB363AF7D8A3BD32AA9997CEF8F1493228BB51D), compiling. 
+[2024.11.26-19.44.55:789][745]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2024.11.26-19.44.55:817][745]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 16
+[2024.11.26-19.44.55:817][745]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2024.11.26-19.44.55:817][745]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2024.11.26-19.44.57:275][798]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2024.11.26-19.44.57:275][798]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.11.26-19.44.57:353][798]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.26-19.44.57:353][798]LogShaderCompilers: Display: Total job queries 48, among them cache hits 0 (0.00%)
+[2024.11.26-19.44.57:353][798]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2024.11.26-19.44.57:353][798]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 716.80 MB (0.70 GB) budget. Usage: 0.00%
+[2024.11.26-19.44.57:353][798]LogShaderCompilers: Display: ================================================
+[2024.11.26-19.44.57:370][799]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2024.11.26-19.44.57:370][799]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2024.11.26-19.44.57:809][810]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2024.11.26-19.44.57:809][810]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.11.26-19.44.57:953][815]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2024.11.26-19.44.57:953][815]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.11.26-19.44.58:174][820]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2024.11.26-19.44.58:174][820]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.11.26-19.44.58:422][827]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2024.11.26-19.44.58:422][827]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.11.26-19.44.58:505][829]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2024.11.26-19.44.58:505][829]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.11.26-19.44.58:534][830]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2024.11.26-19.44.58:534][830]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.11.26-19.44.58:577][831]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2024.11.26-19.44.58:577][831]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.11.26-19.45.00:790][956]LogTexture: Display: Building textures: T_Enemy_GreaterSpider_Ice_D (OODLE_AutoDXT, 2048X2048)
+[2024.11.26-19.45.00:790][956]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.11.26-19.45.00:790][956]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.11.26-19.45.00:790][956]LogMaterial: Display: Missing cached shadermap for CharM_Greater_Spider_Ice in PCD3D_SM5, Default, SM5 (DDC key hash: F801F8701055637DA4EC7685DE84EA9BFEF63DCD), compiling. 
+[2024.11.26-19.45.00:810][956]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2024.11.26-19.45.00:824][956]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 32
+[2024.11.26-19.45.00:824][956]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 27
+[2024.11.26-19.45.00:824][956]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 22
+[2024.11.26-19.45.00:824][956]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 17
+[2024.11.26-19.45.00:824][956]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2024.11.26-19.45.00:824][956]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2024.11.26-19.45.00:824][956]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2024.11.26-19.45.00:824][956]LogShaderCompilers: Display: Started 32 'Local' shader compile jobs with 'Low' priority
+[2024.11.26-19.45.09:701][631]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-19.45.09:843][644]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2024.11.26-19.45.10:124][673]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-19.45.13:553][ 62]LogUObjectGlobals: Warning: Failed to find object 'Class None.ControlRigBlueprint'
+[2024.11.26-19.45.42:945][660]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2024.11.26-19.45.42:952][660]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Main' took 0.072
+[2024.11.26-19.45.42:953][660]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Weapons/Weapons/Rifle] ([1] browsable assets)...
+[2024.11.26-19.45.42:973][660]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Weapons/Weapons/Rifle.Rifle]
+[2024.11.26-19.45.42:973][660]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapons/Weapons/Rifle]
+[2024.11.26-19.45.42:993][660]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/Rifle_Auto14B9390FD42CC76E77161E580F39FC013.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/Autosaves/Game/Weapons/Weapons/Rifle_Auto1.uasset'
+[2024.11.26-19.45.42:995][660]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MS_SandsEss/Master_Materials/Imperfection_MasterMaterial] ([1] browsable assets)...
+[2024.11.26-19.45.43:013][660]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MS_SandsEss/Master_Materials/Imperfection_MasterMaterial.Imperfection_MasterMaterial]
+[2024.11.26-19.45.43:013][660]OBJ SavePackage: Finished generating thumbnails for package [/Game/MS_SandsEss/Master_Materials/Imperfection_MasterMaterial]
+[2024.11.26-19.45.43:021][660]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/Imperfection_MasterMaterial_AutoC19D97AC4E47B15B642737BA6DDB4859.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/Autosaves/Game/MS_SandsEss/Master_Materials/Imperfection_MasterMaterial_Auto1.uasset'
+[2024.11.26-19.45.43:022][660]LogFileHelpers: Auto-saving content packages took 0.069
+[2024.11.26-19.47.36:189][183]Cmd: TRANSACTION UNDO
+[2024.11.26-19.47.36:222][183]LogEditorTransaction: Undo Persona editor: material changed
+[2024.11.26-19.47.36:310][183]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.11.26-19.47.37:771][288]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/Effects/Effects1/Effects/Weapons/Muzzle/PIFPAF.PIFPAF
+[2024.11.26-19.47.37:797][288]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Cascade' in 0.0003 seconds. Added 2 classes and 2 folders.
+[2024.11.26-19.47.44:139][729]LogSlate: Window 'PIFPAF' being destroyed
+[2024.11.26-19.47.44:158][729]LogCascade: Quitting Cascade. FXSystem=0x00000211ACCA7A00
+[2024.11.26-19.47.44:205][729]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.11.26-19.47.44:206][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.26-19.48.39:745][296]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/Marine/Marine.Marine
+[2024.11.26-19.48.39:753][296]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.11.26-19.48.42:612][586]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.11.26-19.48.42:612][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.26-19.48.43:823][713]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.11.26-19.48.43:823][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.26-19.48.48:478][ 41]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_Character.BP_Character
+[2024.11.26-19.48.56:810][541]BlueprintLog: New page: Compile BP_Character
+[2024.11.26-19.48.56:947][541]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2024.11.26-19.48.56:999][541]LogSlate: Took 0.008280 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.11.26-19.48.57:458][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_Character" FILE="C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/Pawns/BP_Character.uasset" SILENT=true
+[2024.11.26-19.48.57:486][566]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/BP_Character2BB4C68A4EAE10C43307FDB948E40F90.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/Pawns/BP_Character.uasset'
+[2024.11.26-19.48.57:507][566]AssetCheck: New page: Asset Save: BP_Character
+[2024.11.26-19.48.57:507][566]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_Character.BP_Character
+[2024.11.26-19.49.08:001][331]LogSlate: Window 'BP_Character' being destroyed
+[2024.11.26-19.49.09:630][507]LogTemp: Repeating last play command: Selected Viewport
+[2024.11.26-19.49.09:635][507]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.26-19.49.09:635][507]PIE: New page: PIE session: Main (26 lis 2024, 21:49:09)
+[2024.11.26-19.49.09:668][507]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.11.26-19.49.09:682][507]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013687s)
+[2024.11.26-19.49.09:683][507]LogAIModule: Creating AISystem for world Main
+[2024.11.26-19.49.09:683][507]LogPlayLevel: PIE: World Init took: (0.000880s)
+[2024.11.26-19.49.09:683][507]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.014749s)
+[2024.11.26-19.49.09:725][507]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2024.11.26-19.49.09:729][507]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.11.26-19.49.09:729][507]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.26-19.49.09:729][507]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.26-19.49.09:729][507]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.26-19.49.09:729][507]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.26-19.49.09:729][507]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.26-19.49.09:729][507]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.26-19.49.09:729][507]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.26-19.49.09:729][507]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.26-19.49.09:729][507]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.26-19.49.09:729][507]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.26-19.49.09:729][507]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.26-19.49.09:729][507]LogAudioMixer: Display: Initializing audio mixer.
+[2024.11.26-19.49.09:734][507]LogAudioMixer: Display: 0: FrontLeft
+[2024.11.26-19.49.09:734][507]LogAudioMixer: Display: 1: FrontRight
+[2024.11.26-19.49.09:769][507]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2024.11.26-19.49.09:769][507]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.26-19.49.09:770][507]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.26-19.49.09:770][507]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.26-19.49.09:770][507]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.11.26-19.49.09:770][507]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.11.26-19.49.09:770][507]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.11.26-19.49.09:771][507]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.11.26-19.49.09:771][507]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.11.26-19.49.09:771][507]LogInit: FAudioDevice initialized.
+[2024.11.26-19.49.09:771][507]LogAudio: Display: Audio Device (ID: 3) registered with world 'Main'.
+[2024.11.26-19.49.09:780][507]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2024.11.26-19.49.09:782][507]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Main.Main:PersistentLevel.Cylinder15_89.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=24.935 Y=24.627 Z=0.000
+[2024.11.26-19.49.09:783][507]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2024.11.26-19.49.09:783][507]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2024.11.26-19.49.09:783][507]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.11.26-20.49.09
+[2024.11.26-19.49.09:783][507]LogWorld: Bringing up level for play took: 0.002779
+[2024.11.26-19.49.09:783][507]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2024.11.26-19.49.09:797][507]PIE: Server logged in
+[2024.11.26-19.49.09:798][507]PIE: Play in editor total start time 0,164 seconds.
+[2024.11.26-19.49.13:574][952]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.26-19.49.13:574][952]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.11.26-19.49.13:574][952]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.11.26-19.49.13:575][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.26-19.49.13:585][952]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.26-19.49.13:588][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.26-19.49.13:603][952]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.26-19.49.13:604][952]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.11.26-19.49.13:605][952]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.11.26-19.49.13:611][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.11.26-19.49.13:655][954]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2024.11.26-19.49.29:922][731]BlueprintLog: New page: Compile BP_Character
+[2024.11.26-19.49.29:957][731]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2024.11.26-19.49.30:450][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_Character" FILE="C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/Pawns/BP_Character.uasset" SILENT=true
+[2024.11.26-19.49.30:470][769]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/BP_Character254CA1EE419B96509D5D3F9DDFE54342.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/Pawns/BP_Character.uasset'
+[2024.11.26-19.49.30:482][769]AssetCheck: New page: Asset Save: BP_Character
+[2024.11.26-19.49.30:482][769]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_Character.BP_Character
+[2024.11.26-19.49.31:819][909]LogTemp: Repeating last play command: Selected Viewport
+[2024.11.26-19.49.31:824][909]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.26-19.49.31:824][909]PIE: New page: PIE session: Main (26 lis 2024, 21:49:31)
+[2024.11.26-19.49.31:855][909]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.11.26-19.49.31:871][909]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014324s)
+[2024.11.26-19.49.31:871][909]LogAIModule: Creating AISystem for world Main
+[2024.11.26-19.49.31:872][909]LogPlayLevel: PIE: World Init took: (0.000953s)
+[2024.11.26-19.49.31:872][909]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.015464s)
+[2024.11.26-19.49.31:890][909]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2024.11.26-19.49.31:892][909]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.11.26-19.49.31:892][909]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.26-19.49.31:892][909]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.26-19.49.31:892][909]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.26-19.49.31:892][909]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.26-19.49.31:892][909]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.26-19.49.31:892][909]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.26-19.49.31:892][909]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.26-19.49.31:892][909]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.26-19.49.31:892][909]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.26-19.49.31:892][909]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.26-19.49.31:892][909]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.26-19.49.31:892][909]LogAudioMixer: Display: Initializing audio mixer.
+[2024.11.26-19.49.31:896][909]LogAudioMixer: Display: 0: FrontLeft
+[2024.11.26-19.49.31:896][909]LogAudioMixer: Display: 1: FrontRight
+[2024.11.26-19.49.31:932][909]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2024.11.26-19.49.31:932][909]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.26-19.49.31:932][909]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.26-19.49.31:932][909]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.26-19.49.31:933][909]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.11.26-19.49.31:933][909]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.11.26-19.49.31:933][909]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.11.26-19.49.31:934][909]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.11.26-19.49.31:934][909]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.11.26-19.49.31:934][909]LogInit: FAudioDevice initialized.
+[2024.11.26-19.49.31:934][909]LogAudio: Display: Audio Device (ID: 4) registered with world 'Main'.
+[2024.11.26-19.49.31:941][909]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2024.11.26-19.49.31:943][909]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Main.Main:PersistentLevel.Cylinder15_89.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=24.935 Y=24.627 Z=0.000
+[2024.11.26-19.49.31:943][909]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2024.11.26-19.49.31:943][909]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2024.11.26-19.49.31:944][909]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.11.26-20.49.31
+[2024.11.26-19.49.31:944][909]LogWorld: Bringing up level for play took: 0.002865
+[2024.11.26-19.49.31:944][909]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2024.11.26-19.49.31:947][909]PIE: Server logged in
+[2024.11.26-19.49.31:948][909]PIE: Play in editor total start time 0,125 seconds.
+[2024.11.26-19.49.34:887][256]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.26-19.49.34:887][256]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.11.26-19.49.34:887][256]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.11.26-19.49.34:887][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.26-19.49.34:896][256]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.26-19.49.34:899][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.26-19.49.34:915][256]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.26-19.49.34:915][256]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.11.26-19.49.34:916][256]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.11.26-19.49.34:920][256]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.26-19.49.34:923][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.11.26-19.49.34:964][258]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.11.26-19.49.39:261][698]BlueprintLog: New page: Compile BP_Character
+[2024.11.26-19.49.39:298][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.11.26-19.49.39:717][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_Character" FILE="C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/Pawns/BP_Character.uasset" SILENT=true
+[2024.11.26-19.49.39:737][730]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/BP_Character15821C984966BE3E6D77BA8EA4FBC1DC.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/Pawns/BP_Character.uasset'
+[2024.11.26-19.49.39:751][730]AssetCheck: New page: Asset Save: BP_Character
+[2024.11.26-19.49.39:751][730]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_Character.BP_Character
+[2024.11.26-19.49.40:761][836]LogTemp: Repeating last play command: Selected Viewport
+[2024.11.26-19.49.40:767][836]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.26-19.49.40:767][836]PIE: New page: PIE session: Main (26 lis 2024, 21:49:40)
+[2024.11.26-19.49.40:795][836]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.11.26-19.49.40:809][836]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013798s)
+[2024.11.26-19.49.40:810][836]LogAIModule: Creating AISystem for world Main
+[2024.11.26-19.49.40:810][836]LogPlayLevel: PIE: World Init took: (0.000936s)
+[2024.11.26-19.49.40:810][836]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.014930s)
+[2024.11.26-19.49.40:827][836]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2024.11.26-19.49.40:828][836]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.11.26-19.49.40:829][836]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.26-19.49.40:829][836]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.26-19.49.40:829][836]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.26-19.49.40:829][836]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.26-19.49.40:829][836]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.26-19.49.40:829][836]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.26-19.49.40:829][836]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.26-19.49.40:829][836]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.26-19.49.40:829][836]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.26-19.49.40:829][836]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.26-19.49.40:829][836]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.26-19.49.40:829][836]LogAudioMixer: Display: Initializing audio mixer.
+[2024.11.26-19.49.40:834][836]LogAudioMixer: Display: 0: FrontLeft
+[2024.11.26-19.49.40:834][836]LogAudioMixer: Display: 1: FrontRight
+[2024.11.26-19.49.40:868][836]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2024.11.26-19.49.40:868][836]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.26-19.49.40:868][836]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.26-19.49.40:868][836]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.26-19.49.40:869][836]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.11.26-19.49.40:869][836]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.11.26-19.49.40:869][836]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.11.26-19.49.40:871][836]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.11.26-19.49.40:871][836]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.11.26-19.49.40:871][836]LogInit: FAudioDevice initialized.
+[2024.11.26-19.49.40:871][836]LogAudio: Display: Audio Device (ID: 5) registered with world 'Main'.
+[2024.11.26-19.49.40:877][836]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2024.11.26-19.49.40:881][836]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Main.Main:PersistentLevel.Cylinder15_89.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=24.935 Y=24.627 Z=0.000
+[2024.11.26-19.49.40:881][836]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2024.11.26-19.49.40:881][836]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2024.11.26-19.49.40:881][836]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.11.26-20.49.40
+[2024.11.26-19.49.40:881][836]LogWorld: Bringing up level for play took: 0.003332
+[2024.11.26-19.49.40:881][836]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2024.11.26-19.49.40:885][836]PIE: Server logged in
+[2024.11.26-19.49.40:885][836]PIE: Play in editor total start time 0,119 seconds.
+[2024.11.26-19.49.43:804][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.26-19.49.43:804][181]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.11.26-19.49.43:805][181]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.11.26-19.49.43:806][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.26-19.49.43:812][181]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.26-19.49.43:815][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.26-19.49.43:831][181]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.26-19.49.43:832][181]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.11.26-19.49.43:833][181]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.11.26-19.49.43:836][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.26-19.49.43:839][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.11.26-19.49.43:876][183]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.11.26-19.49.56:141][493]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/Effects/Effects1/Effects/Weapons/Muzzle/PIFPAF.PIFPAF
+[2024.11.26-19.50.11:835][311]LogCascade: Quitting Cascade. FXSystem=0x00000211BDC71C60
+[2024.11.26-19.50.11:839][311]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.11.26-19.50.11:839][311]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.26-19.50.13:310][464]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/Effects/Effects1/Effects/Weapons/Muzzle/PIFPAF.PIFPAF
+[2024.11.26-19.51.56:306][361]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-19.51.56:628][381]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-19.52.01:707][758]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-19.52.01:839][767]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-19.52.02:111][785]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2024.11.26-19.52.02:424][805]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-19.52.03:705][895]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-19.52.03:915][907]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2024.11.26-19.52.04:263][928]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2024.11.26-19.52.04:560][946]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-19.52.04:687][953]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-19.52.05:636][ 18]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Effects\Effects\Misc\Materials\Smoke\M_MuzzleSmokeDetail_GPU.uasset: Failed to load '/Game/Effects/Misc/Textures/Water/T_Steam_02_Packed': Can't find file.
+[2024.11.26-19.52.05:636][ 18]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Effects\Effects\Misc\Materials\Smoke\M_MuzzleSmokeDetail_GPU.uasset: Failed to load '/Game/Effects/Misc/Textures/Water/T_Steam_02_Packed': Can't find file.
+[2024.11.26-19.52.05:636][ 18]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Effects\Effects\Misc\Materials\Smoke\M_MuzzleSmokeDetail_GPU.uasset: Failed to load '/Game/Effects/Misc/Textures/Water/T_Steam_02_Packed': Can't find file.
+[2024.11.26-19.52.05:637][ 18]LogLinker: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Effects\Effects\Misc\Materials\Smoke\M_MuzzleSmokeDetail_GPU.uasset: Failed to load '/Game/Effects/Misc/Textures/Water/T_Steam_02_Packed': Can't find file.
+[2024.11.26-19.52.05:637][ 18]LoadErrors: Failed to load /Game/Effects/Misc/Textures/Water/T_Steam_02_Packed.T_Steam_02_Packed Referenced by MaterialExpressionTextureSample_1
+[2024.11.26-19.52.05:639][ 18]LogMaterial: Display: Missing cached shadermap for M_MuzzleSmokeDetail_GPU in PCD3D_SM5, Default, SM5 (DDC key hash: 9BB29E6FC3016FF32AD1D57206D170F17B4C5980), compiling. 
+[2024.11.26-19.52.05:640][ 18]LogMaterial: Warning: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Effects\Effects\Misc\Materials\Smoke\M_MuzzleSmokeDetail_GPU.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.11.26-19.52.05:640][ 18]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.11.26-19.52.07:107][157]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-19.52.07:577][185]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-19.52.07:905][206]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-19.52.15:715][796]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-19.52.15:809][804]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2024.11.26-19.52.15:996][823]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-19.52.36:407][ 41]LogContentBrowser: Attempting asset rename: M_SoftGradient_Muzzle -> Efekt
+[2024.11.26-19.52.36:495][ 41]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/Efekt8C17E6A442BC25D53E7028A3B676F50A.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/Effects/Effects1/Effects/Misc/Materials/Ramp/Efekt.uasset'
+[2024.11.26-19.52.36:590][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2024.11.26-19.52.36:623][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.11.26-19.52.36:639][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.11.26-19.52.36:669][ 41]AssetCheck: New page: Asset Save: Efekt
+[2024.11.26-19.52.36:669][ 41]LogContentValidation: Display: Validating Material /Game/Effects/Effects1/Effects/Misc/Materials/Ramp/Efekt.Efekt
+[2024.11.26-19.52.39:536][334]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-19.52.39:771][355]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-19.52.45:790][896]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-19.52.45:949][910]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-19.52.46:013][916]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-19.52.47:706][113]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-19.52.47:829][124]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2024.11.26-19.52.49:964][143]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-19.54.19:960][397]BlueprintLog: New page: Compile BP_Character
+[2024.11.26-19.54.19:995][397]LogBlueprint: Error: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Blueprints\Pawns\BP_Character.uasset: [Compiler] This blueprint (self) is not a ActorComponent, therefore ' Target ' must have a connection.
+[2024.11.26-19.54.19:995][397]LogBlueprint: Error: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Blueprints\Pawns\BP_Character.uasset: [Compiler] This blueprint (self) is not a ActorComponent, therefore ' Target ' must have a connection.
+[2024.11.26-19.54.20:040][397]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2024.11.26-19.55.51:315][ 65]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-19.55.55:648][465]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-19.55.55:840][488]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2024.11.26-19.55.56:125][521]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-19.55.57:685][705]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-19.55.57:804][719]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2024.11.26-19.55.58:034][746]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-19.56.14:123][571]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-19.56.14:417][599]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-19.56.19:770][ 68]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-19.56.19:950][ 84]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2024.11.26-19.56.21:681][280]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-19.56.21:782][291]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2024.11.26-19.56.21:995][315]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-19.56.34:869][678]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-19.56.35:319][706]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-19.56.39:697][ 91]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-19.56.39:805][ 99]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2024.11.26-19.56.40:019][120]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-19.56.41:730][317]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-19.56.41:816][325]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2024.11.26-19.56.42:011][340]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-19.57.18:435][569]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2024.11.26-19.57.18:444][569]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Main' took 0.028
+[2024.11.26-19.57.18:444][569]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pawns/BP_Character] ([2] browsable assets)...
+[2024.11.26-19.57.18:453][569]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Character.BP_Character]
+[2024.11.26-19.57.18:453][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Character]
+[2024.11.26-19.57.18:473][569]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/BP_Character_Auto25D250CA14C6D8ECDA6E2828F1C683E04.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/Autosaves/Game/Blueprints/Pawns/BP_Character_Auto2.uasset'
+[2024.11.26-19.57.18:480][569]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Weapons/Weapons/Rifle] ([1] browsable assets)...
+[2024.11.26-19.57.18:488][569]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Weapons/Weapons/Rifle.Rifle]
+[2024.11.26-19.57.18:488][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapons/Weapons/Rifle]
+[2024.11.26-19.57.18:507][569]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/Rifle_Auto20F42D9FA42F74C05C2584BBC9C6A9EA4.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/Autosaves/Game/Weapons/Weapons/Rifle_Auto2.uasset'
+[2024.11.26-19.57.18:508][569]LogFileHelpers: Auto-saving content packages took 0.064
+[2024.11.26-19.57.24:201][220]BlueprintLog: New page: Compile BP_Character
+[2024.11.26-19.57.24:206][220]LogBlueprint: Error: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Blueprints\Pawns\BP_Character.uasset: [Compiler] This blueprint (self) is not a ActorComponent, therefore ' Target ' must have a connection.
+[2024.11.26-19.57.24:206][220]LogBlueprint: Error: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Blueprints\Pawns\BP_Character.uasset: [Compiler] This blueprint (self) is not a ActorComponent, therefore ' Target ' must have a connection.
+[2024.11.26-19.57.24:236][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.11.26-19.57.27:628][586]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UActorComponent::Deactivate' [Nie można odnaleźć określonego modułu.]
+[2024.11.26-19.59.05:510][769]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-19.59.07:082][895]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-19.59.09:670][195]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-19.59.09:789][205]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2024.11.26-19.59.09:966][223]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-19.59.10:351][244]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-19.59.10:748][272]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-19.59.15:670][770]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-19.59.15:707][773]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-19.59.15:971][799]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2024.11.26-19.59.17:676][990]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-19.59.17:823][  3]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2024.11.26-19.59.17:979][ 18]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-19.59.45:209][ 68]LogMaterial: Display: Missing cached shadermap for Efekt in PCD3D_SM5, Default, SM5 (DDC key hash: 5D83BEABD9409A09B74D4FBBFDB70D5E554997D9), compiling. 
+[2024.11.26-19.59.45:237][ 68]LogShaderCompilers: Display: Submitted 36 shader compile jobs with 'Low' priority
+[2024.11.26-19.59.45:271][ 69]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 36
+[2024.11.26-19.59.45:271][ 69]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 31
+[2024.11.26-19.59.45:271][ 69]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 26
+[2024.11.26-19.59.45:271][ 69]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 21
+[2024.11.26-19.59.45:271][ 69]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 16
+[2024.11.26-19.59.45:271][ 69]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2024.11.26-19.59.45:271][ 69]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2024.11.26-19.59.45:272][ 69]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2024.11.26-19.59.45:272][ 69]LogShaderCompilers: Display: Started 36 'Local' shader compile jobs with 'Low' priority
+[2024.11.26-19.59.45:866][ 96]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.26-19.59.45:867][ 96]LogShaderCompilers: Display: Total job queries 150, among them cache hits 34 (22.67%)
+[2024.11.26-19.59.45:867][ 96]LogShaderCompilers: Display: Tracking 65 distinct input hashes that result in 50 distinct outputs (76.92%)
+[2024.11.26-19.59.45:867][ 96]LogShaderCompilers: Display: RAM used: 0.30 MB (0.00 GB) of 716.80 MB (0.70 GB) budget. Usage: 0.04%
+[2024.11.26-19.59.45:867][ 96]LogShaderCompilers: Display: ================================================
+[2024.11.26-20.02.37:108][309]BlueprintLog: New page: Compile BP_Character
+[2024.11.26-20.02.37:112][309]LogBlueprint: Error: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Blueprints\Pawns\BP_Character.uasset: [Compiler] This blueprint (self) is not a ActorComponent, therefore ' Target ' must have a connection.
+[2024.11.26-20.02.37:112][309]LogBlueprint: Error: [AssetLog] C:\Users\Paulina\OneDrive\Pulpit\kapibara\TopDownPaulinaSa-ek\TopDown\Content\Blueprints\Pawns\BP_Character.uasset: [Compiler] This blueprint (self) is not a ActorComponent, therefore ' Target ' must have a connection.
+[2024.11.26-20.02.37:146][309]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2024.11.26-20.03.06:874][652]BlueprintLog: New page: Compile BP_Character
+[2024.11.26-20.03.06:909][652]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2024.11.26-20.03.07:464][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_Character" FILE="C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/Pawns/BP_Character.uasset" SILENT=true
+[2024.11.26-20.03.07:483][701]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/BP_Character1D9C30364D1D3F2EA4FEE29A2B480B07.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/Pawns/BP_Character.uasset'
+[2024.11.26-20.03.07:502][701]AssetCheck: New page: Asset Save: BP_Character
+[2024.11.26-20.03.07:502][701]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_Character.BP_Character
+[2024.11.26-20.03.10:359][ 10]LogTemp: Repeating last play command: Selected Viewport
+[2024.11.26-20.03.10:365][ 10]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.26-20.03.10:365][ 10]PIE: New page: PIE session: Main (26 lis 2024, 22:03:10)
+[2024.11.26-20.03.10:395][ 10]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.11.26-20.03.10:410][ 10]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014704s)
+[2024.11.26-20.03.10:411][ 10]LogAIModule: Creating AISystem for world Main
+[2024.11.26-20.03.10:411][ 10]LogPlayLevel: PIE: World Init took: (0.001120s)
+[2024.11.26-20.03.10:411][ 10]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.016052s)
+[2024.11.26-20.03.10:459][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2024.11.26-20.03.10:460][ 10]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.11.26-20.03.10:460][ 10]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.26-20.03.10:460][ 10]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.26-20.03.10:460][ 10]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.26-20.03.10:460][ 10]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.26-20.03.10:460][ 10]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.26-20.03.10:460][ 10]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.26-20.03.10:460][ 10]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.26-20.03.10:460][ 10]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.26-20.03.10:460][ 10]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.26-20.03.10:460][ 10]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.26-20.03.10:460][ 10]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.26-20.03.10:460][ 10]LogAudioMixer: Display: Initializing audio mixer.
+[2024.11.26-20.03.10:466][ 10]LogAudioMixer: Display: 0: FrontLeft
+[2024.11.26-20.03.10:466][ 10]LogAudioMixer: Display: 1: FrontRight
+[2024.11.26-20.03.10:503][ 10]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2024.11.26-20.03.10:504][ 10]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.26-20.03.10:504][ 10]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.26-20.03.10:504][ 10]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.26-20.03.10:504][ 10]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.11.26-20.03.10:504][ 10]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.11.26-20.03.10:504][ 10]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.11.26-20.03.10:505][ 10]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.11.26-20.03.10:506][ 10]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.11.26-20.03.10:506][ 10]LogInit: FAudioDevice initialized.
+[2024.11.26-20.03.10:506][ 10]LogAudio: Display: Audio Device (ID: 6) registered with world 'Main'.
+[2024.11.26-20.03.10:518][ 10]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2024.11.26-20.03.10:521][ 10]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Main.Main:PersistentLevel.Cylinder15_89.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=24.935 Y=24.627 Z=0.000
+[2024.11.26-20.03.10:521][ 10]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2024.11.26-20.03.10:521][ 10]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2024.11.26-20.03.10:521][ 10]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.11.26-21.03.10
+[2024.11.26-20.03.10:521][ 10]LogWorld: Bringing up level for play took: 0.003081
+[2024.11.26-20.03.10:521][ 10]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2024.11.26-20.03.10:525][ 10]PIE: Server logged in
+[2024.11.26-20.03.10:527][ 10]PIE: Play in editor total start time 0,162 seconds.
+[2024.11.26-20.03.16:103][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.26-20.03.16:103][672]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.11.26-20.03.16:103][672]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.11.26-20.03.16:104][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.26-20.03.16:110][672]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.26-20.03.16:113][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.26-20.03.16:129][672]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.26-20.03.16:129][672]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.11.26-20.03.16:130][672]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.11.26-20.03.16:133][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.26-20.03.16:136][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.11.26-20.03.16:182][674]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.11.26-20.04.05:763][347]BlueprintLog: New page: Compile BP_Character
+[2024.11.26-20.04.05:826][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.11.26-20.04.06:510][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_Character" FILE="C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/Pawns/BP_Character.uasset" SILENT=true
+[2024.11.26-20.04.06:530][409]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/BP_CharacterA0B3D02E4A08BF7CECE814BC176F2CA2.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/Pawns/BP_Character.uasset'
+[2024.11.26-20.04.06:541][409]AssetCheck: New page: Asset Save: BP_Character
+[2024.11.26-20.04.06:541][409]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_Character.BP_Character
+[2024.11.26-20.04.07:951][555]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-20.04.08:172][576]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-20.04.15:789][291]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-20.04.15:849][297]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-20.04.15:997][312]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-20.04.17:703][515]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-20.04.17:813][526]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2024.11.26-20.04.18:018][549]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-20.04.54:939][812]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-20.04.55:221][840]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-20.05.01:272][414]BlueprintLog: New page: Compile BP_Character
+[2024.11.26-20.05.01:313][414]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2024.11.26-20.05.01:776][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_Character" FILE="C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/Pawns/BP_Character.uasset" SILENT=true
+[2024.11.26-20.05.01:796][453]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/BP_Character3EB5D6264991BBBCA70010AD7107BB7B.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/Blueprints/Pawns/BP_Character.uasset'
+[2024.11.26-20.05.01:813][453]AssetCheck: New page: Asset Save: BP_Character
+[2024.11.26-20.05.01:813][453]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_Character.BP_Character
+[2024.11.26-20.05.03:750][668]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-20.05.03:866][678]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2024.11.26-20.05.03:931][684]LogTemp: Repeating last play command: Selected Viewport
+[2024.11.26-20.05.03:936][684]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.26-20.05.03:936][684]PIE: New page: PIE session: Main (26 lis 2024, 22:05:03)
+[2024.11.26-20.05.03:976][684]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.11.26-20.05.03:990][684]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013553s)
+[2024.11.26-20.05.03:991][684]LogAIModule: Creating AISystem for world Main
+[2024.11.26-20.05.03:991][684]LogPlayLevel: PIE: World Init took: (0.001007s)
+[2024.11.26-20.05.03:991][684]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.014748s)
+[2024.11.26-20.05.04:008][684]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2024.11.26-20.05.04:010][684]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.11.26-20.05.04:010][684]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.26-20.05.04:010][684]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.26-20.05.04:010][684]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.26-20.05.04:010][684]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.26-20.05.04:010][684]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.26-20.05.04:010][684]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.26-20.05.04:010][684]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.26-20.05.04:010][684]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.26-20.05.04:010][684]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.26-20.05.04:010][684]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.26-20.05.04:010][684]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.26-20.05.04:010][684]LogAudioMixer: Display: Initializing audio mixer.
+[2024.11.26-20.05.04:015][684]LogAudioMixer: Display: 0: FrontLeft
+[2024.11.26-20.05.04:015][684]LogAudioMixer: Display: 1: FrontRight
+[2024.11.26-20.05.04:050][684]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2024.11.26-20.05.04:050][684]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.26-20.05.04:050][684]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.26-20.05.04:050][684]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.26-20.05.04:051][684]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.11.26-20.05.04:051][684]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.11.26-20.05.04:051][684]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.11.26-20.05.04:052][684]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.11.26-20.05.04:052][684]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.11.26-20.05.04:052][684]LogInit: FAudioDevice initialized.
+[2024.11.26-20.05.04:052][684]LogAudio: Display: Audio Device (ID: 7) registered with world 'Main'.
+[2024.11.26-20.05.04:059][684]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2024.11.26-20.05.04:062][684]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Main.Main:PersistentLevel.Cylinder15_89.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=24.935 Y=24.627 Z=0.000
+[2024.11.26-20.05.04:062][684]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2024.11.26-20.05.04:062][684]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2024.11.26-20.05.04:062][684]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.11.26-21.05.04
+[2024.11.26-20.05.04:062][684]LogWorld: Bringing up level for play took: 0.002842
+[2024.11.26-20.05.04:063][684]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2024.11.26-20.05.04:066][684]PIE: Server logged in
+[2024.11.26-20.05.04:067][684]PIE: Play in editor total start time 0,131 seconds.
+[2024.11.26-20.05.04:246][702]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.11.26-20.05.09:289][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.26-20.05.09:289][302]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.11.26-20.05.09:290][302]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.11.26-20.05.09:290][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.26-20.05.09:301][302]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.26-20.05.09:304][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.26-20.05.09:321][302]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.26-20.05.09:321][302]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.11.26-20.05.09:321][302]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.11.26-20.05.09:324][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.26-20.05.09:328][302]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2024.11.26-20.05.09:361][305]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2024.11.26-20.05.32:204][928]BlueprintLog: New page: Compile BP_Character
+[2024.11.26-20.05.32:245][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
