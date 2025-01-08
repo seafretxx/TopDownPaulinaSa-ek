@@ -12169,3 +12169,68 @@ Make sure 'PowerUp_C' has been compiled for  Get HP
 [2025.01.08-17.55.04:601][  1]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/Main1_Auto1E8CF0E4F42EAEF6491C69F87B97CDBB6.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/Autosaves/Game/Maps/Main1_Auto1.umap'
 [2025.01.08-17.55.04:602][  1]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Main1' took 0.061
 [2025.01.08-17.55.04:602][  1]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.061
+[2025.01.08-17.58.53:711][ 26]BlueprintLog: New page: Compile WB_PlayerHUD
+[2025.01.08-17.58.53:774][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2025.01.08-17.58.54:545][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI/WB_PlayerHUD" FILE="C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/UI/UI/WB_PlayerHUD.uasset" SILENT=true
+[2025.01.08-17.58.54:569][105]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/WB_PlayerHUDBA553DB64822A4936CEF5DA842045874.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/UI/UI/WB_PlayerHUD.uasset'
+[2025.01.08-17.58.54:582][105]AssetCheck: New page: Asset Save: WB_PlayerHUD
+[2025.01.08-17.58.54:582][105]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI/WB_PlayerHUD.WB_PlayerHUD
+[2025.01.08-17.59.03:107][ 60]BlueprintLog: New page: Compile WB_PlayerHUD
+[2025.01.08-17.59.03:162][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2025.01.08-17.59.03:645][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI/WB_PlayerHUD" FILE="C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/UI/UI/WB_PlayerHUD.uasset" SILENT=true
+[2025.01.08-17.59.03:662][108]LogSavePackage: Moving 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Saved/WB_PlayerHUDA36C5E104AEDFF1054E0668FBF220CC7.tmp' to 'C:/Users/Paulina/OneDrive/Pulpit/kapibara/TopDownPaulinaSa-ek/TopDown/Content/UI/UI/WB_PlayerHUD.uasset'
+[2025.01.08-17.59.03:672][108]AssetCheck: New page: Asset Save: WB_PlayerHUD
+[2025.01.08-17.59.03:672][108]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI/WB_PlayerHUD.WB_PlayerHUD
+[2025.01.08-17.59.13:684][150]LogTemp: Repeating last play command: Selected Viewport
+[2025.01.08-17.59.13:690][150]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.08-17.59.13:690][150]PIE: New page: PIE session: Main1 (8 sty 2025, 19:59:13)
+[2025.01.08-17.59.13:690][150]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main1
+[2025.01.08-17.59.13:708][150]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017527s)
+[2025.01.08-17.59.13:709][150]LogAIModule: Creating AISystem for world Main1
+[2025.01.08-17.59.13:709][150]LogPlayLevel: PIE: World Init took: (0.001247s)
+[2025.01.08-17.59.13:709][150]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main1.Main1 to /Game/Maps/UEDPIE_0_Main1.Main1 (0.018925s)
+[2025.01.08-17.59.13:743][150]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2025.01.08-17.59.13:746][150]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2025.01.08-17.59.13:746][150]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.08-17.59.13:746][150]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.08-17.59.13:746][150]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.08-17.59.13:746][150]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.08-17.59.13:746][150]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.08-17.59.13:746][150]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.08-17.59.13:746][150]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.08-17.59.13:746][150]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.08-17.59.13:746][150]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.08-17.59.13:746][150]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.08-17.59.13:746][150]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.08-17.59.13:746][150]LogAudioMixer: Display: Initializing audio mixer.
+[2025.01.08-17.59.13:753][150]LogAudioMixer: Display: 0: FrontLeft
+[2025.01.08-17.59.13:753][150]LogAudioMixer: Display: 1: FrontRight
+[2025.01.08-17.59.13:788][150]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2025.01.08-17.59.13:788][150]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.08-17.59.13:790][150]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.08-17.59.13:790][150]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.08-17.59.13:790][150]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.01.08-17.59.13:790][150]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.01.08-17.59.13:790][150]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.01.08-17.59.13:791][150]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.01.08-17.59.13:791][150]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.01.08-17.59.13:791][150]LogInit: FAudioDevice initialized.
+[2025.01.08-17.59.13:791][150]LogAudio: Display: Audio Device (ID: 48) registered with world 'Main1'.
+[2025.01.08-17.59.13:803][150]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2025.01.08-17.59.13:806][150]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main1.Main1 up for play (max tick rate 0) at 2025.01.08-18.59.13
+[2025.01.08-17.59.13:806][150]LogWorld: Bringing up level for play took: 0.002137
+[2025.01.08-17.59.13:807][150]LogOnline: OSS: Creating online subsystem instance for: :Context_90
+[2025.01.08-17.59.13:810][150]PIE: Server logged in
+[2025.01.08-17.59.13:811][150]PIE: Play in editor total start time 0,121 seconds.
+[2025.01.08-17.59.22:750][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.08-17.59.22:750][991]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main1
+[2025.01.08-17.59.22:750][991]LogWorld: UWorld::CleanupWorld for Main1, bSessionEnded=true, bCleanupResources=true
+[2025.01.08-17.59.22:750][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.08-17.59.22:761][991]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.08-17.59.22:770][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.08-17.59.22:799][991]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.08-17.59.22:800][991]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.01.08-17.59.22:801][991]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.01.08-17.59.22:804][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.08-17.59.22:809][991]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2025.01.08-17.59.22:871][992]LogPlayLevel: Display: Destroying online subsystem :Context_90
